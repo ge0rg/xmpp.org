@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>XMPP</title><link href="/" rel="alternate"></link><link href="/feeds/admin.atom.xml" rel="self"></link><id>/</id><updated>2011-06-23T07:36:00+02:00</updated><entry><title>Google: "The Future is Jingle"</title><link href="/posts/blog/2011/Jun/23/google-the-future-is-jingle" rel="alternate"></link><updated>2011-06-23T07:36:00+02:00</updated><author><name>admin</name></author><id>tag:,2011-06-23:posts/blog/2011/Jun/23/google-the-future-is-jingle</id><summary type="html">&lt;p&gt;Jingle (XEP-0166 and XEP-0167) is the voice and media signalling protocol developed by Google, Collabora, Yate, Tandberg and Jabber Inc (the latter two now part of Cisco), and standardized within the XSF.&lt;/p&gt;
+&lt;p&gt;Seen by many as key for an open-standard consumer VOIP system to compete with Skype and others, the specifications moved from Experimental to Draft status two years ago, and have been implemented in a large number of clients, including desktop and mobile handset environments.&lt;/p&gt;
+&lt;p&gt;Google's original VOIP protocol, as used in Google Talk, was an important precursor to Jingle, and Google has now announced a switchover to Jingle as their "primary signalling protocol" for voice calls "to and from Gmail, iGoogle, and Orkut."&lt;/p&gt;
+&lt;p&gt;Kevin Smith, XMPP Council Chair, who was also Chair when Jingle was advanced to Draft, said of the announcement:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;"Google's updates to use the standardised Jingle protocols will mean 
+an increased chance of interoperability for streaming audio between 
+XMPP users and will hopefully entice more developers into producing 
+implementations and contributing to the standards process."&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Peter Thatcher of Google said in his announcement to the Jingle developers list that "the future is Jingle," and went on&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;"I hope that this will be a support to the Jingle community and futher 
+our efforts to have open standards for voice and video communication."&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;--
+Dave Cridland&lt;/p&gt;</summary></entry><entry><title>XMPP Summit 1</title><link href="/posts/blog/2010/Aug/10/xmpp-summit-1" rel="alternate"></link><updated>2010-08-10T04:46:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-08-10:posts/blog/2010/Aug/10/xmpp-summit-1</id><summary type="html">&lt;p&gt;The first developer conference held by the XMPP Standards Foundation occurred on July 24 and 25, 2006, in Portland, Oregon, USA (the same week as &lt;a href="http://conferences.oreillynet.com/os2006/"&gt;OSCON 2006&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Note: The following information is archived here for historical purposes (last updated 2006-07-25).&lt;/p&gt;
+&lt;h3&gt;Purpose&lt;/h3&gt;
+&lt;p&gt;The purpose of this event was to test interoperability between multiple implementations of the XMPP RFCs (3920 and 3921).&lt;/p&gt;
+&lt;p&gt;All participants were be expected to file implementation reports (in accordance with a format and template yet to be developed), which will form one input to the process of advancing the XMPP specifications from Proposed Standard to Draft Standard within the Internet Standards Process at the IETF (see &lt;a href="http://www.faqs.org/rfcs/rfc2026.html"&gt;RFC 2026&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The other expected outcome will be a consensus set of proposed modifications and clarifications to the XMPP RFCs for discussion on the mailing list of the XMPP WG after the event concludes.&lt;/p&gt;
+&lt;h3&gt;Focus&lt;/h3&gt;
+&lt;p&gt;The main focus of this event will be server testing. Testing of clients that are in or near full compliance with the XMPP RFCs will also occur (XMPP is a client-server technology, so we need both), but given the large number of Jabber/XMPP clients it will not be feasible to test very many clients. A set of test cases will be published several months in advance for use by the participants. The test cases will focus only on protocol compliance, not scalability, reliability, ease of use, or other such factors.&lt;/p&gt;
+&lt;p&gt;This will be a small, developer-only event. No customers, no marketing people, no guano. All bugs will stay in the room.&lt;/p&gt;
+&lt;p&gt;This is not a more general developer conference. While the JSF may hold such conferences in the future, this is a small, focused, interop testing event. However, participants are encouraged to attend OSCON (same week, same city) and to get involved in Jabber-related activities there.&lt;/p&gt;
+&lt;h3&gt;Logistics&lt;/h3&gt;
+&lt;p&gt;The JSF will charge \$200 per person in order to cover costs associated with hosting of the event. This fee will be waived for open-source developers. Please make payment via PayPal to the address "paypal@jabber.org" or by check to JSF P.O. Box 1641 Denver CO 80201 USA. You may also pay in person at the event.&lt;/p&gt;
+&lt;p&gt;Although originally we thought space might be limited because of the venue, that is no longer the case. Multiple participants from participating companies are welcome.&lt;/p&gt;
+&lt;p&gt;If you are interested in participating in this event, please contact Peter Saint-Andre directly via IM.&lt;/p&gt;
+&lt;h3&gt;Attendees&lt;/h3&gt;
+&lt;p&gt;The confirmed attendees as of 2006-07-17 are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jacques Belissent (Sun)&lt;/li&gt;
+&lt;li&gt;Artur Bergman (SixApart)&lt;/li&gt;
+&lt;li&gt;Gary Burd (Google)&lt;/li&gt;
+&lt;li&gt;JD Conley (Coversant)&lt;/li&gt;
+&lt;li&gt;Gaston Dombiak (Jive Software)&lt;/li&gt;
+&lt;li&gt;Joe Hildebrand (Jabber Inc.)&lt;/li&gt;
+&lt;li&gt;Justin Karneges (Psi)&lt;/li&gt;
+&lt;li&gt;Mridul Muralidharan (Sun)&lt;/li&gt;
+&lt;li&gt;Mickael Remond (Process-One / ejabberd)&lt;/li&gt;
+&lt;li&gt;Peter Saint-Andre (JSF)&lt;/li&gt;
+&lt;li&gt;Alexey Shchepin (Process-One / ejabberd)&lt;/li&gt;
+&lt;li&gt;Travis Shirk (Jabber Inc.)&lt;/li&gt;
+&lt;li&gt;Matt Tucker (Jive Software)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Communication&lt;/h3&gt;
+&lt;p&gt;A &lt;a href="http://mail.jabber.org/mailman/listinfo/interop"&gt;dedicated mailing list&lt;/a&gt; is available for attendees and interested others (e.g., those who would like to discuss test case development). The list is &lt;a href="http://mail.jabber.org/pipermail/interop/"&gt;publicly archived&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Interop Activities&lt;/h3&gt;
+&lt;p&gt;All work and no play makes XMPP a sad protocol. On Monday at 6:30 we'll gather for dinner at &lt;a href="http://portland.citysearch.com/profile/40854242"&gt;Henry's&lt;/a&gt;, which is a short walk from the interop venue. The cost of dinner is included with the interop event fees. On Tuesday at 5:00 (or when the interop event wraps up), all are invited to the Jive Software office (also a short walk) for an Oregon beer and wine tasting.&lt;/p&gt;</summary></entry><entry><title>XMPP Summit 2</title><link href="/posts/blog/2010/Aug/10/xmpp-summit-2" rel="alternate"></link><updated>2010-08-10T04:41:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-08-10:posts/blog/2010/Aug/10/xmpp-summit-2</id><summary type="html">&lt;p&gt;The second developer conference held by the XMPP Standards Foundation occurred on February 26, 2007, in Brussels, Belgium (the same week as &lt;a href="http://www.fosdem.org/"&gt;FOSDEM 2007&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Note: The following information is archived here for historical purposes (last updated 2007-02-26).&lt;/p&gt;
+&lt;h3&gt;Agenda&lt;/h3&gt;
+&lt;p&gt;A detailed agenda will be worked out at FOSDEM 2007 through a just-in-time process of discussion. In general there will be two main activities: (1) in-depth problem-solving related to pressing XMPP protocol extensions and (2) interoperability testing of codebases represented by developers in attendance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discussion Topics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At FOSDEM 2007 we talk informally about high-priority topics in the XMPP world, but at the one-day devcon we will devote more time to in-depth problem solving and technology development. Here are some potential topics for discussion:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal Eventing via Pubsub (PEP)&lt;/li&gt;
+&lt;li&gt;End-to-end encryption&lt;/li&gt;
+&lt;li&gt;Jingle&lt;/li&gt;
+&lt;li&gt;Spim prevention&lt;/li&gt;
+&lt;li&gt;Set up of an online environment for ongoing testing&lt;/li&gt;
+&lt;li&gt;Establishment of a certification program&lt;/li&gt;
+&lt;li&gt;Simultaneous XML editing (for whiteboarding etc.)&lt;/li&gt;
+&lt;li&gt;SASL EXTERNAL and the Intermediate Certification Authority (ICA)&lt;/li&gt;
+&lt;li&gt;Clarifications to rfc3920bis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Testing Focus&lt;/h3&gt;
+&lt;p&gt;The focus for this event will still be core XMPP compliance, including the modifications in rfc3920bis and rfc3921bis, with a special focus on TLS and SASL. We will also test service discovery and entity capabilities. This will help us complete the RFC changes and prepare for work on a compliance program.&lt;/p&gt;
+&lt;h3&gt;Logistics&lt;/h3&gt;
+&lt;p&gt;The meeting will be held 08:30 to 16:30 local time at the &lt;a href="http://www.atlas-hotel.be/"&gt;Atlas Hotel&lt;/a&gt; at Rue du Vieux Marché aux Grains 30 in Brussels. We have reserved a block of rooms at the hotel but it is downtown so other options (youth hostels etc.) are conveniently located nearby. If you reserve a room at the Atlas Hotel, please specify "XMPP conference on 26 Feb" in the comments so you get the right room rate.&lt;/p&gt;
+&lt;p&gt;Here is the rate:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single room: weekend price : 75 euros, week price : 114 euros&lt;/li&gt;
+&lt;li&gt;Double room: weekend price: 85 euros, week price : 129 euros&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Breakfast and taxes included.&lt;/p&gt;
+&lt;p&gt;Room sharing is encouraged. Join the &lt;a href="http://mail.jabber.org/mailman/listinfo/fosdem"&gt;FOSDEM discussion list&lt;/a&gt; to discuss room sharing and logistics information with other participants.&lt;/p&gt;
+&lt;p&gt;The XSF will also hold an informal dinner on Sunday evening for all participants.&lt;/p&gt;
+&lt;h3&gt;Participants&lt;/h3&gt;
+&lt;p&gt;The following people are confirmed for participation in the Monday Summit:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eric de Boer(Jeti)&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:gnauck@myjabber.net" title="xmpp:gnauck@myjabber.net"&gt;Alexander Gnauck&lt;/a&gt; (AG-Software / XSF Board)&lt;/li&gt;
+&lt;li&gt;Artur Hefczyc (Tigase)&lt;/li&gt;
+&lt;li&gt;Ralph Meijer (Twisted Matrix Labs / XMPP Council)&lt;/li&gt;
+&lt;li&gt;Ian Paterson (ClientSide / XMPP Council)&lt;/li&gt;
+&lt;li&gt;Mickaël Rémond (Process-one / XSF Board)&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:stpeter@jabber.org" title="xmpp:stpeter@jabber.org"&gt;Peter Saint-Andre&lt;/a&gt; (XMPP Standards Foundation)&lt;/li&gt;
+&lt;li&gt;Kevin Smith (Psi / XMPP Council)&lt;/li&gt;
+&lt;li&gt;Matt Tucker (Jive Software / XSF Board)&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:js@camaya.net" title="xmpp:js@camaya.net"&gt;Jakob Schröter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:yann.biancheri@gmail.com" title="xmpp:yann.biancheri@gmail.com"&gt;Yann Biancheri&lt;/a&gt; (Horizon Wimba)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://el-tramo.be/about/" title="http://el-tramo.be/about/"&gt;Remko Tronçon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Matthias Wimmer (amessage / jabberd14)&lt;/li&gt;
+&lt;li&gt;Jonas Lindberg (Google)&lt;/li&gt;
+&lt;li&gt;Robert McQueen (Collabora)&lt;/li&gt;
+&lt;li&gt;Dafydd Harries (Collabora)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The following people will attend FOSDEM but are not yet confirmed for the Summit on Monday:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gregoire Menuel (JabberFR)&lt;/li&gt;
+&lt;li&gt;Ben Turner (Siemens)&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>XMPP Summit 3</title><link href="/posts/blog/2010/Aug/10/xmpp-summit-3" rel="alternate"></link><updated>2010-08-10T04:40:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-08-10:posts/blog/2010/Aug/10/xmpp-summit-3</id><summary type="html">&lt;p&gt;The XMPP Standards Foundation held its third developer conference on July 23 and 24, 2007, in Portland, Oregon, USA (the same week as &lt;a href="http://conferences.oreillynet.com/os2007/"&gt;OSCON 2007&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Note: The following information is archived here for historical purposes (last updated 2007-07-16).&lt;/p&gt;
+&lt;h3&gt;Why Attend?&lt;/h3&gt;
+&lt;p&gt;XMPP Summit 3 is the best place for developers to get a jumpstart on the upcoming 2008 certification program and to discuss cutting-edge topics in the XMPP community.&lt;/p&gt;
+&lt;h3&gt;Discussion Topics&lt;/h3&gt;
+&lt;p&gt;In general the discussion will focus on solving problems related to important XMPP protocol extensions and brainstorming new XMPP applications (including integration with existing applications such as content management and social networking).&lt;/p&gt;
+&lt;p&gt;Potential topics include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Details on the 2008 certification program&lt;/li&gt;
+&lt;li&gt;Personal Eventing via Pubsub (PEP)&lt;/li&gt;
+&lt;li&gt;End-to-end encryption via ESessions&lt;/li&gt;
+&lt;li&gt;Jingle for voice and beyond&lt;/li&gt;
+&lt;li&gt;Preventing the emergence of spim on the Jabber network&lt;/li&gt;
+&lt;li&gt;Encouraging deployment of TLS on the Jabber network via use of the XMPP ICA&lt;/li&gt;
+&lt;li&gt;Improvement of the &lt;a href="http://www.xmpp.org/interop/"&gt;interop testing network&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Final clarifications to rfc3920bis and rfc3921bis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Logistics&lt;/h3&gt;
+&lt;p&gt;Thanks to gracious assistance from &lt;a href="http://www.oreilly.com/"&gt;O'Reilly Conferences&lt;/a&gt;, the devcon will held in room E142 at the &lt;a href="http://www.oregoncc.org/"&gt;Oregon Convention Center&lt;/a&gt; on Monday July 23 and Tuesday July 24.&lt;/p&gt;
+&lt;p&gt;Join the &lt;a href="http://mail.jabber.org/mailman/listinfo/devcon"&gt;devcon list&lt;/a&gt; to discuss further details.&lt;/p&gt;
+&lt;p&gt;Participants&lt;/p&gt;
+&lt;p&gt;The following people are confirmed for participation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Blaine Cook (Twitter)&lt;/li&gt;
+&lt;li&gt;Christian Jensen (Verb Exchange)&lt;/li&gt;
+&lt;li&gt;Joe Hildebrand (Jabber Inc.)&lt;/li&gt;
+&lt;li&gt;Toly Menn (VIACK)&lt;/li&gt;
+&lt;li&gt;Chris Mullins (Coversant)&lt;/li&gt;
+&lt;li&gt;Peter Saint-Andre (XMPP Standards Foundation)&lt;/li&gt;
+&lt;li&gt;Matt Tucker (Jive Software / XSF Board)&lt;/li&gt;
+&lt;li&gt;Bruno van Haetsdaele (Horizon Wimba)&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>XMPP Summit 4</title><link href="/posts/blog/2010/Aug/10/xmpp-summit-4" rel="alternate"></link><updated>2010-08-10T04:38:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-08-10:posts/blog/2010/Aug/10/xmpp-summit-4</id><summary type="html">&lt;p&gt;The fourth developer conference held by the XMPP Standards Foundation occurred on February 24 and 25, 2008, in Brussels, Belgium (the same week as &lt;a href="http://www.fosdem.org/"&gt;FOSDEM 2008&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The following information was archived from &lt;a href="http://wiki.jabber.org/index.php/FOSDEM_2008"&gt;http://wiki.jabber.org/index.php/FOSDEM_2008&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Intro&lt;/h3&gt;
+&lt;p&gt;The 2008 edition of FOSDEM (the &lt;a href="http://www.fosdem.org/"&gt;Free and Open source Software Developers' Europe Meeting&lt;/a&gt;) will take place at the ULB, Brussels, Belgium over the weekend of February 23-24 2008.&lt;/p&gt;
+&lt;p&gt;Here is the plan for the Jabber/XMPP community...&lt;/p&gt;
+&lt;p&gt;We don't have a FOSDEM "devroom" this year so we will focus on a booth at FOSDEM on Saturday. Jabberites will also be encouraged to attend various FOSDEM talks on Saturday.&lt;/p&gt;
+&lt;p&gt;On Sunday and Monday we will hold a "devcon" at the Atlas Hotel in Brussels. Join the &lt;a href="http://mail.jabber.org/mailman/listinfo/devcon"&gt;devcon list&lt;/a&gt; to discuss.&lt;/p&gt;
+&lt;p&gt;If you want to help out with the booth or attend the devcon, leave your name below. If you do not have an account at this wiki, contact &lt;a href="xmpp:gnauck@jabber.org"&gt;Alexander Gnauck&lt;/a&gt; and he will create an account for you.&lt;/p&gt;
+&lt;h3&gt;Booth&lt;/h3&gt;
+&lt;p&gt;The booth is a great way to talk to people interested in our technologies. If you are interested in manning the booth (if only for a few hours), contact &lt;a href="xmpp:ralphm@ik.nu" title="xmpp:ralphm@ik.nu"&gt;Ralph Meijer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Booth volunteers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="xmpp:stpeter@jabber.org"&gt;Peter Saint-Andre&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:gnauck@jabber.org"&gt;Alexander Gnauck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:admin@im.flosoft.biz"&gt;Florian Jensen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:intosi@ik.nu"&gt;Edwin Mons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:solarius@jabber.org"&gt;Solarius&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Christ van Willegen&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:melo@simplicidade.org"&gt;Pedro Melo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;XMPP Devcon&lt;/h3&gt;
+&lt;p&gt;If you would like to participate in the XMPP devcon, please leave your name below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="xmpp:gnauck@jabber.org"&gt;Alexander Gnauck&lt;/a&gt; (AG Software / XSF Board)&lt;/li&gt;
+&lt;li&gt;Dafydd Harries (Collabora / OLPC)&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:admin@im.flosoft.biz"&gt;Florian Jensen (Flosoft.biz / XSF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Robert McQueen (Collabora / OLPC)&lt;/li&gt;
+&lt;li&gt;Ralph Meijer (Mediamatic Lab / XMPP Council)&lt;/li&gt;
+&lt;li&gt;Edwin Mons (iRex Technologies)&lt;/li&gt;
+&lt;li&gt;Mickaël Rémond (Process-one / XSF Board)&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:stpeter@jabber.org"&gt;Peter Saint-Andre&lt;/a&gt; (XSF)&lt;/li&gt;
+&lt;li&gt;Jakob Schröter (gloox)&lt;/li&gt;
+&lt;li&gt;Kevin Smith (Psi / XMPP Council)&lt;/li&gt;
+&lt;li&gt;Solarius (jabber.fi)&lt;/li&gt;
+&lt;li&gt;Pavel Šimerda&lt;/li&gt;
+&lt;li&gt;Artur Hefczyc (Tigase)&lt;/li&gt;
+&lt;li&gt;Adam Nemeth&lt;/li&gt;
+&lt;li&gt;Fabio Forno (bluendo.com / ISMB)&lt;/li&gt;
+&lt;li&gt;Alessandro Malgaroli (bluendo.com)&lt;/li&gt;
+&lt;li&gt;Philippe Sultan (INRIA / XSF)&lt;/li&gt;
+&lt;li&gt;Henri Bergius (nemein.com / ajatus.info)&lt;/li&gt;
+&lt;li&gt;Jerry Jalava (nemein.com / ajatus.info)&lt;/li&gt;
+&lt;li&gt;Jérôme Sautret (Process-one)&lt;/li&gt;
+&lt;li&gt;Grégoire Menuel (JabberFR / XSF)&lt;/li&gt;
+&lt;li&gt;Pedro Melo&lt;/li&gt;
+&lt;li&gt;Winfried Tilanus&lt;/li&gt;
+&lt;li&gt;Marc van Woerkom&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:yann.biancheri@gmail.com"&gt;Yann Biancheri&lt;/a&gt; (Wimba)&lt;/li&gt;
+&lt;li&gt;Matthew Wild&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:dbcm@jabber.org"&gt;Delfim Machado&lt;/a&gt; (SAPO)&lt;/li&gt;
+&lt;li&gt;&lt;a href="xmpp:bard@sameplace.cc"&gt;Massimiliano Mirra&lt;/a&gt; [Not sure... volunteering at FOSDEM and leaving on 25 morning, but will do my best to stop by]&lt;/li&gt;
+&lt;li&gt;Remko Tronçon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Devcon Agenda&lt;/h3&gt;
+&lt;p&gt;Here is a preliminary agenda, as posted by stpeter on the devcon list...&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;Sunday, February 24, 2008
+09:30 - 10:00 Introductions / Agenda Bashing
+10:00 - 10:30 The State of the Bulb (Peter Saint-Andre)
+10:30 - 11:00 Deployment Challenges (Florian Jensen)
+11:00 - 11:30 Abuse Reporting / Spam Prevention (Peter Saint-Andre)
+12:00 - 14:00 &amp;quot;Working&amp;quot; Lunch
+14:00 - 14:30 Lunchtable Reports
+14:30 - 16:00 Mobile XMPP Roundtable
+16:00 - 17:00 Open Topics / Lightning Talks
+17:00 - 19:00 Break
+19:00 - 22:00 XSF Dinner
+
+Monday, February 25, 2008
+09:30 - 11:00 Jingle Roundtable
+11:00 - 11:30 File Transfer (Peter Saint-Andre)
+11:30 - 12:00 XML Synchronization (Fabio Forno et al.)
+12:00 - 14:00 &amp;quot;Working&amp;quot; Lunch
+14:00 - 14:30 Lunchtable Reports
+14:30 - 15:00 Summary / Action Items
+15:00 - 16:00 XMPP Council Meeting
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;This agenda attempts to be realistic about start times given pub "meetings" the night before, how long it takes to go out to lunch, etc. Last year we had informal breakout discussions at the lunch tables and this year we'd like to formalize that a bit by suggesting some topics for discussion and then receiving lunchtable reports when we return to the meeting room (sometimes the most creative solutions are developed over meals or a mug of beer).&lt;/p&gt;
+&lt;h3&gt;Other Events&lt;/h3&gt;
+&lt;p&gt;On the evening of Friday February 22 we will join the world-famous FOSDEM Beer Event -- don't miss out on that!
+We will also hold a dinner on Sunday, February 24 for devcon participants.&lt;/p&gt;
+&lt;h3&gt;Communications&lt;/h3&gt;
+&lt;p&gt;Join the &lt;a href="http://mail.jabber.org/mailman/listinfo/devcon"&gt;devcon-discuss list&lt;/a&gt; for more frequent updates.&lt;/p&gt;
+&lt;h3&gt;Accommodation&lt;/h3&gt;
+&lt;p&gt;We will stay at the &lt;a href="http://www.atlas-hotel.be/"&gt;Atlas Hotel&lt;/a&gt;. It's located at Rue du Vieux Marché aux Grains 30 (or 'Oude Graanmarkt 30' for the Dutch-speaking part of the country) in Brussels close to the city center. TomTom doesn't seem to know the hotel by name, so you're better off using the street address for it. A map of the area around the hotel can be seen at &lt;a href="http://www.openstreetmap.org/?lat=50.85006&amp;amp;lon=4.34652&amp;amp;zoom=17&amp;amp;layers=B0FT"&gt;http://www.openstreetmap.org/?lat=50.85006&amp;amp;lon=4.34652&amp;amp;zoom=17&amp;amp;layers=B0FT&lt;/a&gt;. The beer event is held at the Delirium Bar. A map of the area can be seen at&lt;a href="http://www.openstreetmap.org/?lat=50.848541&amp;amp;lon=4.354157&amp;amp;zoom=18&amp;amp;layers=B0FT"&gt;http://www.openstreetmap.org/?lat=50.848541&amp;amp;lon=4.354157&amp;amp;zoom=18&amp;amp;layers=B0FT&lt;/a&gt;. It isn't named on the map, but it's the dead-end street smack in the middle of the map.&lt;/p&gt;
+&lt;p&gt;The XMPP Standards Foundation will pay the hotel costs of any XSF member who participates in the devcon. The XSF may ask that you share a room with another XSF member, but we will pay for up to four nights' stay at the Atlas hotel.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Room shares and room reservations for XSF members.&lt;/strong&gt;&lt;/p&gt;
+&lt;table border="1"&gt; &lt;tbody&gt; &lt;tr&gt; &lt;th&gt; room
+&lt;/th&gt; &lt;th&gt; XSF member
+&lt;/th&gt; &lt;th&gt; date arrival
+&lt;/th&gt; &lt;th&gt; date departure
+&lt;/th&gt; &lt;th&gt; nights
+&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt; &lt;th rowspan="2"&gt; 1
+&lt;/th&gt; &lt;td&gt; Edwin Mons
+&lt;/td&gt; &lt;td&gt; Feb 22nd
+&lt;/td&gt; &lt;td&gt; Feb 26th
+&lt;/td&gt; &lt;td&gt; 4
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; Ralph Meijer
+&lt;/td&gt; &lt;td&gt; Feb 22nd
+&lt;/td&gt; &lt;td&gt; Feb 26th
+&lt;/td&gt; &lt;td&gt; 4
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;th rowspan="2"&gt; 2
+&lt;/th&gt; &lt;td&gt; Christ van Willegen (cvwillegen AT gmail.com)
+&lt;/td&gt; &lt;td&gt; Feb 22nd
+&lt;/td&gt; &lt;td&gt; Feb 24th
+&lt;/td&gt; &lt;td&gt; 2
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; Solarius
+&lt;/td&gt; &lt;td&gt; Feb 22th
+&lt;/td&gt; &lt;td&gt; Feb 24th
+&lt;/td&gt; &lt;td&gt; 2
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;th rowspan="2"&gt; 3
+&lt;/th&gt; &lt;td&gt; Philippe Sultan
+&lt;/td&gt; &lt;td&gt; Feb 24th
+&lt;/td&gt; &lt;td&gt; Feb 25th
+&lt;/td&gt; &lt;td&gt; 1
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; Adam Nemeth
+&lt;/td&gt; &lt;td&gt; Feb 22nd
+&lt;/td&gt; &lt;td&gt; Feb 26th
+&lt;/td&gt; &lt;td&gt; 4
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;th rowspan="2"&gt; 4
+&lt;/th&gt; &lt;td&gt; Jakob Schröter
+&lt;/td&gt; &lt;td&gt; Feb 22nd
+&lt;/td&gt; &lt;td&gt; Feb 26th
+&lt;/td&gt; &lt;td&gt; 4
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; Peter Saint-Andre
+&lt;/td&gt; &lt;td&gt; Feb 22nd
+&lt;/td&gt; &lt;td&gt; Feb 26th
+&lt;/td&gt; &lt;td&gt; 4
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;th rowspan="2"&gt; 5
+&lt;/th&gt; &lt;td&gt; Jérôme Sautret
+&lt;/td&gt; &lt;td&gt; Feb 22nd
+&lt;/td&gt; &lt;td&gt; Feb 25th
+&lt;/td&gt; &lt;td&gt; 3
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; Grégoire Menuel
+&lt;/td&gt; &lt;td&gt; Feb 22nd
+&lt;/td&gt; &lt;td&gt; Feb 26th
+&lt;/td&gt; &lt;td&gt; 4
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;th rowspan="2"&gt; 6
+&lt;/th&gt; &lt;td&gt; Pedro Melo
+&lt;/td&gt; &lt;td&gt; Feb 22nd
+&lt;/td&gt; &lt;td&gt; Feb 25nd
+&lt;/td&gt; &lt;td&gt; 3
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; Yann Biancheri
+&lt;/td&gt; &lt;td&gt; Feb 23rd
+&lt;/td&gt; &lt;td&gt; Feb 25th
+&lt;/td&gt; &lt;td&gt; 2
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;th rowspan="2"&gt; 7
+&lt;/th&gt; &lt;td&gt; Pavel Šimerda
+&lt;/td&gt; &lt;td&gt; Feb 22nd
+&lt;/td&gt; &lt;td&gt; Feb 26th
+&lt;/td&gt; &lt;td&gt; 4
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; &lt;/td&gt; &lt;td&gt; &lt;/td&gt; &lt;td&gt; &lt;/td&gt; &lt;td&gt; &lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;For non XSF members the room rates are:&lt;/strong&gt;&lt;/p&gt;
+&lt;table border="1"&gt; &lt;tbody&gt; &lt;tr&gt; &lt;th&gt; &lt;/th&gt; &lt;th&gt; single room
+&lt;/th&gt; &lt;th&gt; double room
+&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; Midweek Monday to Thursday
+&lt;/td&gt; &lt;td&gt; 115,- €
+&lt;/td&gt; &lt;td&gt; 130,- €
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; Weekend rate (all Fridays Saturdays Sundays)
+&lt;/td&gt; &lt;td&gt; 75,- €
+&lt;/td&gt; &lt;td&gt; 85,- €
+&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;Breakfast and taxes included.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Free wireless Internet.&lt;/em&gt;&lt;/p&gt;</summary></entry><entry><title>XMPP Summit 5</title><link href="/posts/blog/2010/Aug/10/xmpp-summit-5" rel="alternate"></link><updated>2010-08-10T04:36:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-08-10:posts/blog/2010/Aug/10/xmpp-summit-5</id><summary type="html">&lt;p&gt;The XMPP Standards Foundation will hold its fifth "XMPP Summit" meeting on July 21 and 22, 2008, in Portland, Oregon, USA (the same week as &lt;a href="http://conferences.oreilly.com/oscon/"&gt;OSCON 2008&lt;/a&gt;).
+Read on for details.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="#participants"&gt;Participants&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="#agenda"&gt;Agenda&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="#logistics"&gt;Logistics&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="#events"&gt;Events&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name="participants"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Participants&lt;/h3&gt;
+&lt;p&gt;Participation is open to all developers, service operators, and other interested individuals. Please note that this is a hard-code technical get-together with plenty of coding sprints, hackfests, interop testing, brainstorming sessions, geeky lightning talks, etc. This meeting is not intended for marketing presentations and other fluff!&lt;/p&gt;
+&lt;p&gt;If you would like to participate, please join the &lt;a href="http://mail.jabber.org/mailman/listinfo/summit"&gt;summit@xmpp.org&lt;/a&gt; mailing list and introduce yourself.&lt;/p&gt;
+&lt;p&gt;The following individuals have indicated that they will attend:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Dietrich Ayala, &lt;a href="http://www.mozilla.com/"&gt;Mozilla&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Nathan Bell, &lt;a href="http://www.intrigo.com/"&gt;Intrigo&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Eric Butler &lt;/li&gt;
+&lt;li&gt;Fadi Chalfoun, &lt;a href="http://www.intrigo.com/"&gt;Intrigo&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Diana Cionoiu, &lt;a href="http://yate.null.ro/"&gt;Yate&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Anders Conbere &lt;/li&gt;
+&lt;li&gt;Blaine Cook &lt;/li&gt;
+&lt;li&gt;Leah Culver, &lt;a href="http://pownce.com/"&gt;Pownce&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Kevin Davie, &lt;a href="http://zleek.com/"&gt;Zleek&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Gaston Dombiak, &lt;a href="http://www.jivesoftware.com/"&gt;Jive Software&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Seth Fitzsimmons, &lt;a href="http://www.yahoo.com/"&gt;Yahoo&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Nathan Fritz, &lt;a href="http://www.seesmic.com/"&gt;Seesmic&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Will Glozer, &lt;a href="http://heysan.com/"&gt;Heysan&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Jared Hanson &lt;/li&gt;
+&lt;li&gt;Artur Hefczyc, &lt;a href="http://www.tigase.org/"&gt;Tigase Project&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Evan Henshaw-Plath &lt;/li&gt;
+&lt;li&gt;Christian Hergert, &lt;a href="http://www.myspace.com/"&gt;MySpace&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Joe Hildebrand, &lt;a href="http://www.jabber.com/"&gt;Jabber Inc.&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Ron Hose, &lt;a href="http://www.tokbox.com/"&gt;TokBox&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Justin Karneges, &lt;a href="http://psi-im.org/"&gt;Psi project&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Sam Keen, &lt;a href="http://pdxphp.org/"&gt;Portland PHP Users Group&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Asheesh Laroia, &lt;a href="http://creativecommons.org/"&gt;Creative Commons&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Patrick Logan &lt;/li&gt;
+&lt;li&gt;Eric Marcoullier, &lt;a href="http://www.gnipcentral.com/"&gt;Gnip&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Chris Messina, &lt;a href="http://www.vidoop.com/"&gt;Vidoop&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Ralph     Meijer, &lt;a href="http://www.mediamatic.nl/set-48-nl.html?lang=en"&gt;Mediamatic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jack Moffit, &lt;a href="http://www.chesspark.com/"&gt;Chesspark&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Pushpendra Mohta, &lt;a href="http://www.vayusphere.com/"&gt;Vayusphere&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Allen Morris &lt;/li&gt;
+&lt;li&gt;Dan Mosedal, &lt;a href="http://www.mozilla.com/"&gt;Mozilla&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Don Park 32. Russell Okamoto &lt;/li&gt;
+&lt;li&gt;Michael Ossareh, &lt;a href="http://heysan.com/"&gt;Heysan&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Darian Anthony Patrick, &lt;a href="http://www.upenn.edu/"&gt;University of     Pennsylvania&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Adam Pisoni, &lt;a href="http://www.geni.com/"&gt;Geni&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Evan Prodromou, &lt;a href="http://identi.ca/"&gt;Identi.ca&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Mickaël Rémond, &lt;a href="http://www.process-one.net/"&gt;Process-One&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Peter Saint-Andre, &lt;a href="http://www.xmpp.org/"&gt;XSF&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Krishna Sankar, &lt;a href="http://www.cisco.com/"&gt;Cisco&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Jérôme Sautret, &lt;a href="http://www.process-one.net/"&gt;Process-One&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Sean Smith &lt;/li&gt;
+&lt;li&gt;Brendan Taylor &lt;/li&gt;
+&lt;li&gt;Mike Taylor, &lt;a href="http://www.seesmic.com/"&gt;Seesmic&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Matt Tucker, &lt;a href="http://www.jivesoftware.com/"&gt;Jive Software&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Justin Uberti, &lt;a href="http://www.google.com/"&gt;Google&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Jud Valeski, &lt;a href="http://www.gnipcentral.com/"&gt;Gnip&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Ezra Zygmuntowicz, &lt;a href="http://engineyard.com/"&gt;EngineYard&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name="agenda"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Agenda&lt;/h3&gt;
+&lt;p&gt;As posted by Peter Saint-Andre on the summit@xmpp.org list, 2008-07-16 (with further tweaking).
+This is a rough agenda. As always, agenda bashing is welcome. As much as possible, I'd like to keep the spirit of an &lt;a href="http://en.wikipedia.org/wiki/Unconference"&gt;unconference&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The summit hours will be something like this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Monday 9:30 AM to 4:30 PM&lt;/li&gt;
+&lt;li&gt;Tuesday 9:30 AM to 2:30 PM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Typically people are burnt out after a day and a half, thus the shorter day on Tuesday. But feel free to hang around and hack or continue the discussions.&lt;/p&gt;
+&lt;p&gt;Given that we have \~40 people, it will be difficult to have a productive conversation with only one track because some people will get bored with the current topic and such. Therefore I suggest we hold hold full-group sessions punctuated by breakouts of two or more concurrent threads (T1, T2, etc.). During the multi-threaded times, people can move back and forth as they please for discussion, hacking, interop testing, a change of pace, etc. We'll work out the final details in real time. :)&lt;/p&gt;
+&lt;p&gt;For the full-group sessions we may use the &lt;a href="http://en.wikipedia.org/wiki/Fishbowl_(conversation)"&gt;fishbowl&lt;/a&gt; approach.&lt;/p&gt;
+&lt;p&gt;For several of the sessions, I've provided URLs for background reading.&lt;/p&gt;
+&lt;p&gt;Lunch and beverages are included and will be served in the room.&lt;/p&gt;
+&lt;h4&gt;Monday&lt;/h4&gt;
+&lt;h5&gt;9:30 - 10:00&lt;/h5&gt;
+&lt;p&gt;Introductions, logistics, agenda bashing&lt;/p&gt;
+&lt;h5&gt;10:00 - 11:00&lt;/h5&gt;
+&lt;p&gt;T1: Interop testing setup + discussion about online testing
+T2: XMPP 101 + general Q&amp;amp;A to bring newbies up to speed&lt;/p&gt;
+&lt;h5&gt;11:00 - 12:00&lt;/h5&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Lightning_Talk"&gt;Lightning talks&lt;/a&gt;!
+We have \~40 people. If 6 people present, that's 10 minutes each including Q&amp;amp;A. If 12 people present, that's 5 minutes each. And so on. Any volunteers to present? If not, I'll volunteer you at the summit! ;) I'm particularly interested in short talks about problem areas that we need to focus on during the rest of the summit (or afterwards).&lt;/p&gt;
+&lt;h5&gt;12:00 - 1:00&lt;/h5&gt;
+&lt;p&gt;Semi-working lunch of sorts. Wander off, stick around, hack code, check email, post photos, blog about how much fun you're having, update your GTD app with action items, whatever.&lt;/p&gt;
+&lt;h5&gt;1:00 - 2:00&lt;/h5&gt;
+&lt;p&gt;&lt;em&gt;Note: we will use these threads as partial input to the HTTP+XMPP "hybrid" discussion at 2:00.&lt;/em&gt;
+T1: Microblogging
+&lt;a href="http://www.xmpp.org/extensions/inbox/microblogging.html"&gt;http://www.xmpp.org/extensions/inbox/microblogging.html&lt;/a&gt;
+&lt;a href="http://blog.dave.cridland.net/?p=61"&gt;http://blog.dave.cridland.net/?p=61&lt;/a&gt;   &lt;a href="https://stpeter.im/?p=2224"&gt;https://stpeter.im/?p=2224&lt;/a&gt;   &lt;a href="http://openmicroblogging.org/"&gt;http://openmicroblogging.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;T2: Server/component interactions
+&lt;a href="http://www.xmpp.org/extensions/xep-0114.html"&gt;http://www.xmpp.org/extensions/xep-0114.html&lt;/a&gt;
+&lt;a href="http://www.xmpp.org/extensions/xep-0225.html"&gt;http://www.xmpp.org/extensions/xep-0225.html&lt;/a&gt;   how to implement protocols like pubsub, pep, and MUC as external components?   how can components access information like rosters and presence?   how to access or share component services in a federated manner? authorization of components or remote users&lt;/p&gt;
+&lt;h5&gt;2:00 - 3:00&lt;/h5&gt;
+&lt;p&gt;Full-group session on hybrid technologies. No, that's not gas and electric, it's HTTP + XMPP. Sub-topics include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When to use HTTP, when to use XMPP?&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://oauth.net/"&gt;OAuth&lt;/a&gt; (see &lt;a href="http://www.xmpp.org/extensions/xep-0235.html"&gt;XEP-0235&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;REST and XMPP (see &lt;a href="http://en.oreilly.com/oscon2008/public/schedule/detail/4359"&gt;here&lt;/a&gt;, &lt;a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm"&gt;here&lt;/a&gt;, &lt;a href="http://arch.jabber.com/archives/2003/12/000062.html"&gt;here&lt;/a&gt; and
+    &lt;a href="https://stpeter.im/?p=1791"&gt;here&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Shared rosters / &lt;a href="http://www.xmpp.org/extensions/inbox/communities.html"&gt;communities&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;3:00 - 4:00&lt;/h5&gt;
+&lt;p&gt;T1: Jingle I (identify open issues for push to Draft)
+T2: Pubsub I (general discussion to identify open issues and apply insights from earlier in the day)&lt;/p&gt;
+&lt;h5&gt;4:00 - 4:30&lt;/h5&gt;
+&lt;p&gt;Wrap-up, feedback, logistics, planning for day 2&lt;/p&gt;
+&lt;h4&gt;Tuesday&lt;/h4&gt;
+&lt;p&gt;9:30 - 10:00
+Day 1 summary, logistics, agenda bashing&lt;/p&gt;
+&lt;h5&gt;10:00 - 11:00&lt;/h5&gt;
+&lt;p&gt;T1: Jingle II (discuss additional use cases such as SRTP and early media)
+T2: PubSub II (discuss uses in hybrid technologies, federation of information exchange)&lt;/p&gt;
+&lt;h5&gt;11:00 - 12:00&lt;/h5&gt;
+&lt;p&gt;T1: Security, spam, etc.
+topics: server to server federation, TLS+dialback, TLS+SASL, abuse prevention, end-to-end encryption   &lt;a href="http://xmpp.org/ca/"&gt;http://xmpp.org/ca/&lt;/a&gt;
+&lt;a href="http://www.xmpp.org/extensions/xep-0158.html"&gt;http://www.xmpp.org/extensions/xep-0158.html&lt;/a&gt;
+&lt;a href="http://www.xmpp.org/extensions/xep-0159.html"&gt;http://www.xmpp.org/extensions/xep-0159.html&lt;/a&gt;
+&lt;a href="http://www.xmpp.org/extensions/xep-0161.html"&gt;http://www.xmpp.org/extensions/xep-0161.html&lt;/a&gt;
+&lt;a href="http://www.xmpp.org/extensions/xep-0165.html"&gt;http://www.xmpp.org/extensions/xep-0165.html&lt;/a&gt;
+&lt;a href="http://www.xmpp.org/extensions/xep-0205.html"&gt;http://www.xmpp.org/extensions/xep-0205.html&lt;/a&gt;
+&lt;a href="http://www.xmpp.org/extensions/xep-0116.html"&gt;http://www.xmpp.org/extensions/xep-0116.html&lt;/a&gt;
+&lt;a href="http://www.xmpp.org/extensions/xep-0246.html"&gt;http://www.xmpp.org/extensions/xep-0246.html&lt;/a&gt;
+&lt;a href="http://www.xmpp.org/extensions/xep-0247.html"&gt;http://www.xmpp.org/extensions/xep-0247.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;T2: Mobile optimizations
+&lt;a href="http://www.xmpp.org/extensions/xep-0237.html"&gt;http://www.xmpp.org/extensions/xep-0237.html&lt;/a&gt;
+&lt;a href="http://www.xmpp.org/extensions/xep-0124.html"&gt;http://www.xmpp.org/extensions/xep-0124.html&lt;/a&gt;
+&lt;a href="http://www.xmpp.org/extensions/xep-0206.html"&gt;http://www.xmpp.org/extensions/xep-0206.html&lt;/a&gt;
+&lt;a href="http://mail.jabber.org/pipermail/standards/2008-February/017911.html"&gt;http://mail.jabber.org/pipermail/standards/2008-February/017911.html&lt;/a&gt;
+&lt;a href="http://mail.jabber.org/pipermail/standards/2008-February/018036.html"&gt;http://mail.jabber.org/pipermail/standards/2008-February/018036.html&lt;/a&gt;&lt;/p&gt;
+&lt;h5&gt;12:00 - 1:00&lt;/h5&gt;
+&lt;p&gt;Semi-working lunch.&lt;/p&gt;
+&lt;h5&gt;1:00 - 2:00&lt;/h5&gt;
+&lt;p&gt;Open discussion&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What problems are we facing?&lt;/li&gt;
+&lt;li&gt;What new application spaces are of interest?&lt;/li&gt;
+&lt;li&gt;What do we need to focus on going forward? (see &lt;a href="/about-xmpp/xsf/xsf-roadmap/"&gt;XSF Roadmap&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;2:00 - 2:30&lt;/h5&gt;
+&lt;p&gt;Summary, action items, prep for hacking sessions, etc.&lt;/p&gt;
+&lt;p&gt;&lt;a name="logistics"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Logistics&lt;/h3&gt;
+&lt;p&gt;Thanks to gracious assistance from &lt;a href="http://www.oreilly.com/"&gt;O'Reilly Conferences&lt;/a&gt;, the XMPP Summit will be held at the &lt;a href="http://www.oregoncc.org/"&gt;Oregon Convention Center&lt;/a&gt; on Monday July 21 and Tuesday July 22, 2008.&lt;/p&gt;
+&lt;p&gt;The room number is E142.&lt;/p&gt;
+&lt;p&gt;You &lt;em&gt;do not&lt;/em&gt; need to register for OSCON in order to participate in the XMPP Summit. OSCON is a great conference and we encourage you to attend! However, if you want to participate only in the XMPP Summit, you MUST sign in for a free "floor pass" with O'Reilly when you arrive at the convention center.&lt;/p&gt;
+&lt;p&gt;For transportation, use Portland's &lt;a href="http://trimet.org/max/"&gt;MAX&lt;/a&gt; (light rail) service. The Convention Center stop is your friend. :)&lt;/p&gt;
+&lt;p&gt;As at XMPP Summit 4, the XMPP Standards Foundation will again pay hotel costs for any elected XSF member who attends the Summit. To take advantage of this offer, please make arrangements to stay at the &lt;a href="http://www.marriott.com/hotels/travel/pdxct-portland-marriott-city-center/"&gt;Marriott City Center&lt;/a&gt; (see &lt;a href="http://mail.jabber.org/pipermail/summit/2008-June/000039.html"&gt;this message&lt;/a&gt;!) and contact &lt;a href="https://stpeter.im/?page_id=1968"&gt;Peter Saint-Andre&lt;/a&gt; so he knows to pay for your room and can help arrange room sharing.&lt;/p&gt;
+&lt;p&gt;During the summit itself, we will use the &lt;a href="xmpp:summit@conference.jabber.org?join"&gt;summit@conference.jabber.org&lt;/a&gt; chatroom as a backchannel for discussion, information sharing, complaints, questions, etc.&lt;/p&gt;
+&lt;p&gt;&lt;a name="events"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Events&lt;/h3&gt;
+&lt;p&gt;As always, the XSF will host one social event (dinner or somesuch) and we will also have many opportunities to meet in the evenings for some good Portland beer. :)&lt;/p&gt;
+&lt;p&gt;Dinner will be held on Monday night (July 21) at 7:00 PM, the location is &lt;a href="http://www.kellsirish.com/portland/index.html"&gt;Kells Irish Restaurant and Pub&lt;/a&gt; -- details &lt;a href="http://mail.jabber.org/pipermail/summit/2008-July/000158.html"&gt;here&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>XMPP Summit 6</title><link href="/posts/blog/2010/Aug/10/xmpp-summit-6" rel="alternate"></link><updated>2010-08-10T04:33:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-08-10:posts/blog/2010/Aug/10/xmpp-summit-6</id><summary type="html">&lt;p&gt;The sixth &lt;a href="/participate/the-xmpp-summit/"&gt;XMPP Summit&lt;/a&gt; to be held by the XMPP Standards Foundation will occur on February 6-9, 2009, in Brussels, Belgium (the same weekend as &lt;a href="http://www.fosdem.org/"&gt;FOSDEM 2009&lt;/a&gt;).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#friday"&gt;Friday, February 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#saturday"&gt;Saturday, February 7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#sunday"&gt;Sunday, February 8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#dinner"&gt;Sunday, February 8 - Birthday Dinner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#monday"&gt;Monday, February 9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#logistics"&gt;Logistics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#contact"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name="friday"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Friday, February 6: Jingle Thingle&lt;/h3&gt;
+&lt;p&gt;A hackfest and brainstorming session for &lt;a href="http://xmpp.org/tech/jingle.shtml"&gt;Jingle&lt;/a&gt; developers who want to code and test their implementations (primarily voice and video, but we will also discuss file transfer, end-to-end encryption, and other use cases). The tentative schedule is 9:30 to 4:30 but it may run later (but not too late because we don't want to miss the &lt;a href="http://www.fosdem.org/2009/beerevent"&gt;FOSDEM Beer Event&lt;/a&gt;!). Location: &lt;a href="http://www.hotelbedford.be/"&gt;Hotel Bedford&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you would like to participate in the Jingle Thingle (thanks to &lt;a href="http://blog.dave.cridland.net/"&gt;Dave Cridland&lt;/a&gt; for the name!), please say so on the &lt;a href="http://mail.jabber.org/mailman/listinfo/jingle"&gt;jingle@xmpp.org&lt;/a&gt; mailing list or contact &lt;a href="https://stpeter.im/?page_id=1968"&gt;Peter Saint-Andre&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The following people are likely to participate:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Dan-Cristian Bogos (&lt;a href="http://www.itsyscom.com/"&gt;ITSysCom&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Thiago Camargo (&lt;a href="http://nimbuzz.com/"&gt;Nimbuzz&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Detlev Casanova (&lt;a href="http://kopete.kde.org/"&gt;Kopete&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Diana Cionoiu (&lt;a href="http://yate.null.ro/"&gt;Yate Project&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Olivier Crête (&lt;a href="http://collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Dave Cridland (&lt;a href="http://www.isode.com/"&gt;Isode&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Fabio Forno (&lt;a href="http://bluendo.com/"&gt;bluendo&lt;/a&gt;     / &lt;a href="http://ooros.com/"&gt;ooros&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Nathan Fritz (&lt;a href="http://www.seesmic.com/"&gt;Seesmic&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Alfonso De Gregorio (&lt;a href="http://crypto.lo.gy/"&gt;Crypto.lo.gy&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Dafydd Harries (&lt;a href="http://collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Kristian Luoma (&lt;a href="http://www.nokia.com/"&gt;Nokia&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Robert McQueen (&lt;a href="http://collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Dirk Meyer (&lt;a href="http://www.tzi.de/"&gt;TZI&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Massimiliano Mirra (&lt;a href="http://www.sameplace.cc/"&gt;Sameplace&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Marian Podgoreanu (&lt;a href="http://yate.null.ro/"&gt;Yate Project&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Johann Prieur (&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Senko Rasic (&lt;a href="http://collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Ali Sabil (&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Peter Saint-Andre (&lt;a href="http://xmpp.org/"&gt;XSF&lt;/a&gt;     / &lt;a href="http://cisco.com/"&gt;Cisco&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Sjoerd Simons (&lt;a href="http://collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Luca Tagliaferri (&lt;a href="http://bluendo.com/"&gt;bluendo&lt;/a&gt;     / &lt;a href="http://ooros.com/"&gt;ooros&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Remko Tronçon (&lt;a href="http://psi-im.org/"&gt;Psi Project&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Paul Witty (&lt;a href="http://www.codian.com/"&gt;Codian&lt;/a&gt;     / &lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name="saturday"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Saturday, February 7: Devroom @ FOSDEM&lt;/h3&gt;
+&lt;p&gt;From 13:00 until 19:00 we will have a devroom where we can host tutorials, presentations, demos, and lightning talks at &lt;a href="http://www.fosdem.org/2009/"&gt;FOSDEM 2009&lt;/a&gt;. Location: ULB Solbosh Campus (see &lt;a href="#logistics"&gt;logistics&lt;/a&gt;), Building AW, Room 1.120.&lt;/p&gt;
+&lt;p&gt;If you would like to be a speaker, please contact &lt;a href="http://xmpp.org/xsf/people/stpeter.shtml"&gt;Peter Saint-Andre&lt;/a&gt;. We especially want technical talks of interest to open-source geeks. No marketing fluff, please! The typical talk will be 15 minutes with 15 minutes for discussion.&lt;/p&gt;
+&lt;p&gt;The proposed schedule is as follows.&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="3"&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;&lt;th&gt;Time&lt;/th&gt;
+            &lt;th&gt; Speaker(s)&lt;/th&gt;
+            &lt;th&gt; Topic&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt; 13:00 - 14:00&lt;/td&gt;
+            &lt;td&gt; Peter Saint-Andre ([XSF](http://xmpp.org/)) and Remko Tronçon ([Psi](http://psi-im.org/))&lt;/td&gt;
+            &lt;td&gt; XMPP 101: A Fast-Paced Introduction to XMPP Technologies&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt; 14:00 - 14:30&lt;/td&gt;
+            &lt;td&gt; Nathan Fritz ([Seesmic](http://seesmic.com/))&lt;/td&gt;
+            &lt;td&gt; [PubSub](/about-xmpp/technology-overview/pubsub/) and the Web&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt; 14:30 - 15:00&lt;/td&gt;
+            &lt;td&gt; Jack Moffitt ([StanzIQ](http://stanziq.com/) / [ChessPark](http://chesspark.com/))&lt;/td&gt;
+            &lt;td&gt; Integrating XMPP into Web Technologies&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt; 15:00 - 15:30&lt;/td&gt;
+            &lt;td&gt; Simon Tennant ([BuddyCloud](http://www.buddycloud.com/))&lt;/td&gt;
+            &lt;td&gt; Geolocation&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt; 15:30 - 16:00&lt;/td&gt;
+            &lt;td&gt; Diana Cionoiu ([Yate](http://yate.null.ro/))&lt;/td&gt;
+            &lt;td&gt; Deploying [Jingle](/about-xmpp/technology-overview/jingle/)&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt; 16:00 - 16:30&lt;/td&gt;
+            &lt;td&gt; Dirk Meyer ([TZI](http://www.tzi.de/))&lt;/td&gt;
+            &lt;td&gt; Personal Media Networks&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt; 16:30 - 17:00&lt;/td&gt;
+            &lt;td&gt; Florian Jensen ([Flosoft](http://flosoft.biz/))&lt;/td&gt;
+            &lt;td&gt; Large-Scale XMPP Deployments&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt; 17:00 - 17:30&lt;/td&gt;
+            &lt;td&gt; Mickaël Rémond ([ProcessOne](http://www.process-one.net/))&lt;/td&gt;
+            &lt;td&gt; XMPP in Real Life (Attacks, Bad Behaviors, and How to Cope with Them)&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt; 17:30 - 18:00&lt;/td&gt;
+            &lt;td&gt; Dave Cridland ([Isode](http://www.isode.com/))&lt;/td&gt;
+            &lt;td&gt; Presenting Information Flow in Deployed XMPP Clients&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt; 18:00 - 19:00&lt;/td&gt;
+            &lt;td&gt; Miscellaneous&lt;/td&gt;
+            &lt;td&gt; Lightning Talks!&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a name="sunday"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Sunday, February 8: FOSDEM&lt;/h3&gt;
+&lt;p&gt;Developers are free to attend the second day of the FOSDEM conference. We'll need help manning the booth and attending talks to spread the word about XMPP. Also expect many interesting "hallway" discussions and continued hacking in the background.&lt;/p&gt;
+&lt;p&gt;&lt;a id="dinner" name="dinner"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Sunday, February 8: Birthday Dinner&lt;/h3&gt;
+&lt;p&gt;The XSF will hold its bi-annual dinner this year in a small, authentic Belgian restaurant just outside of Brussels. It's the 10th Birthday of Jabber/XMPP technologies this year so help us celebrate! The restaurant easily reachable from the ULB and the city centre. If you aren't attending FOSDEM on Sunday, we can give you easy directions from anywhere in Brussels. This year's dinner is a bit different, as it's not paid by the XSF but by several sponsors. The event will be held at &lt;a href="http://www.aubergebretonne.be/"&gt;Auberge Bretonne&lt;/a&gt; starting at 19:00. If you would like to participate in the dinner, please send a mail to the summit mailinglist or ping &lt;a href="xmpp:admin@im.flosoft.biz"&gt;Florian Jensen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Depending on the amount of sponsorships / donations we receive, the price will vary. It shouldn't be more than 25€ per person.&lt;/p&gt;
+&lt;p&gt;Contact Florian if you would like to participate or donate!
+Sponsors / Donations:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="http://www.ag-software.de/"&gt;AG-Software&lt;/a&gt; (100€) &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flosoft.biz/"&gt;Flosoft.biz&lt;/a&gt; (75€) &lt;/li&gt;
+&lt;li&gt;Thomas Koeppen (50€) &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.isode.com/"&gt;Isode Ltd.&lt;/a&gt; (200€) &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.nokia.com/"&gt;Nokia&lt;/a&gt; (1000€) &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://stanziq.com/"&gt;StanzIQ&lt;/a&gt; (75€) &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ooros.com/"&gt;ooros&lt;/a&gt; / &lt;a href="http://www.bluendo.com/"&gt;bluendo&lt;/a&gt;     (100€)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://stpeter.im/"&gt;Peter Saint-Andre&lt;/a&gt; (75€) &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.process-one.net/"&gt;ProcessOne&lt;/a&gt; (200€)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Participants:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Alex Borisov &lt;/li&gt;
+&lt;li&gt;Thiago Camargo &lt;/li&gt;
+&lt;li&gt;Ruxi Chitescu &lt;/li&gt;
+&lt;li&gt;Diana Cionoiu (veg.) &lt;/li&gt;
+&lt;li&gt;Pascaline Chotard (veg.) &lt;/li&gt;
+&lt;li&gt;Blaine Cook (veg.) &lt;/li&gt;
+&lt;li&gt;Dave Cridland &lt;/li&gt;
+&lt;li&gt;Fabio Forno &lt;/li&gt;
+&lt;li&gt;Athena Fritz &lt;/li&gt;
+&lt;li&gt;Nathan Fritz &lt;/li&gt;
+&lt;li&gt;Alexander Gnauck &lt;/li&gt;
+&lt;li&gt;Alfonso De Gregorio &lt;/li&gt;
+&lt;li&gt;Klaus Hartke &lt;/li&gt;
+&lt;li&gt;Artur Hefczyc &lt;/li&gt;
+&lt;li&gt;Florian Jensen &lt;/li&gt;
+&lt;li&gt;Olle E. Johansson &lt;/li&gt;
+&lt;li&gt;Thomas Koeppen &lt;/li&gt;
+&lt;li&gt;Anand Kumria &lt;/li&gt;
+&lt;li&gt;Kristian Luoma &lt;/li&gt;
+&lt;li&gt;Alexey Melnikov &lt;/li&gt;
+&lt;li&gt;Ralph Meijer &lt;/li&gt;
+&lt;li&gt;Massimiliano Mirra (veg.) &lt;/li&gt;
+&lt;li&gt;Dirk Meyer &lt;/li&gt;
+&lt;li&gt;Jack Moffitt &lt;/li&gt;
+&lt;li&gt;Edwin Mons &lt;/li&gt;
+&lt;li&gt;Adam Nemeth &lt;/li&gt;
+&lt;li&gt;Roberto Ostinelli &lt;/li&gt;
+&lt;li&gt;Jehan Pagès &lt;/li&gt;
+&lt;li&gt;Johann Prieur &lt;/li&gt;
+&lt;li&gt;Mickaël Rémond &lt;/li&gt;
+&lt;li&gt;Ali Sabil &lt;/li&gt;
+&lt;li&gt;Peter Saint-Andre &lt;/li&gt;
+&lt;li&gt;Jonathan Schleifer &lt;/li&gt;
+&lt;li&gt;Will Sheward &lt;/li&gt;
+&lt;li&gt;Luca Tagliaferri &lt;/li&gt;
+&lt;li&gt;Simon Tennant &lt;/li&gt;
+&lt;li&gt;Winfried Tilanus &lt;/li&gt;
+&lt;li&gt;Remko Tronçon &lt;/li&gt;
+&lt;li&gt;Matthew Wild &lt;/li&gt;
+&lt;li&gt;Paul Witty &lt;/li&gt;
+&lt;li&gt;Hellekin O. Wolf (veg.) &lt;/li&gt;
+&lt;li&gt;Christopher Zorn &lt;/li&gt;
+&lt;li&gt;Nathan Zorn&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name="monday"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Monday, February 9: XMPP Summit&lt;/h3&gt;
+&lt;p&gt;The official "XMPP Summit" itself: Intensive discussions among core XMPP developers to solve pressing problems in the XMPP protocol stack. The main topics will probably be mobile optimizations, file transfer, and end-to-end encryption as &lt;a href="http://logs.jabber.org/council@conference.jabber.org/2008-12-03.html#14:54:38"&gt;recently prioritized&lt;/a&gt; by the &lt;a href="/about-xmpp/xsf/the-xsf-council/"&gt;XMPP Council&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Summit is not intended for people who are just interested in learning about XMPP (see the Saturday schedule), but instead for active technical contributors in the XMPP community. If you would like to participate, please say so on the &lt;a href="http://mail.jabber.org/mailman/listinfo/summit"&gt;summit@xmpp.org&lt;/a&gt; mailing list or contact &lt;a href="https://stpeter.im/?page_id=1968"&gt;Peter Saint-Andre&lt;/a&gt;. The tentative schedule is 9:30 to 4:30. Location: &lt;a href="http://www.hotelbedford.be/"&gt;Hotel Bedford&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The following people are likely to participate:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Alex Borisov (&lt;a href="http://gcmnet.co.uk/"&gt;GCMNet&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Thiago Camargo (&lt;a href="http://nimbuzz.com/"&gt;Nimbuzz&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Diana Cionoiu (&lt;a href="http://yate.null.ro/"&gt;Yate Project&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Blaine Cook (&lt;a href="http://www.osmosoft.com/"&gt;Osmosoft&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Dave Cridland (&lt;a href="http://www.isode.com/"&gt;Isode&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Fabio Forno (&lt;a href="http://bluendo.com/"&gt;bluendo&lt;/a&gt;     / &lt;a href="http://ooros.com/"&gt;ooros&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Nathan Fritz (&lt;a href="http://seesmic.com/"&gt;Seesmic&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Alexander Gnauck (&lt;a href="http://www.ag-software.de/"&gt;AG Software&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Alfonso De Gregorio (&lt;a href="http://crypto.lo.gy/"&gt;Crypto.lo.gy&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Klaus Hartke (&lt;a href="http://www.tzi.de/"&gt;TZI&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Artur Hefczyc (&lt;a href="http://www.tigase.org/"&gt;Tigase&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Florian Jensen (&lt;a href="http://flosoft.biz/"&gt;Flosoft&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Olle E. Johansson &lt;a href="http://edvina.net/"&gt;(Edvina AB, Sweden&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Thomas Koeppen (&lt;a href="http://steademy.com/"&gt;STEADEMY&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Kristian Luoma (&lt;a href="http://www.nokia.com/"&gt;Nokia&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Robert McQueen (&lt;a href="http://collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Alexey Melnikov (&lt;a href="http://www.isode.com/"&gt;Isode&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Dirk Meyer (&lt;a href="http://www.tzi.de/"&gt;TZI&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Ralph Meijer (&lt;a href="http://www.mediamatic.nl/"&gt;Mediamatic Lab&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Massimiliano Mirra (&lt;a href="http://www.sameplace.cc/"&gt;Sameplace&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Jack Moffitt (&lt;a href="http://stanziq.com/"&gt;StanzIQ&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Edwin Mons &lt;/li&gt;
+&lt;li&gt;Adam Nemeth &lt;/li&gt;
+&lt;li&gt;Roberto Ostinelli (&lt;a href="http://www.openspime.com/"&gt;OpenSpime&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Jehan Pagès &lt;/li&gt;
+&lt;li&gt;Sonny Piers (&lt;a href="http://www.mozilla-europe.org/"&gt;Mozilla Europe&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Marian Podgoreanu (&lt;a href="http://yate.null.ro/"&gt;Yate Project&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Johann Prieur (&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Mickaël Rémond (&lt;a href="http://www.process-one.net/"&gt;ProcessOne&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Christophe Romain (&lt;a href="http://www.process-one.net/"&gt;ProcessOne&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Senko Rasic (&lt;a href="http://collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Ali Sabil (&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Jérôme Sautret (&lt;a href="http://www.process-one.net/"&gt;ProcessOne&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Peter Saint-Andre (&lt;a href="http://xmpp.org/"&gt;XSF&lt;/a&gt;     / &lt;a href="http://cisco.com/"&gt;Cisco&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Jonathan Schleifer &lt;/li&gt;
+&lt;li&gt;Luca Tagliaferri (&lt;a href="http://bluendo.com/"&gt;bluendo&lt;/a&gt;     / &lt;a href="http://ooros.com/"&gt;ooros&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Simon Tennant (&lt;a href="http://www.buddycloud.com/"&gt;BuddyCloud&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Winfried Tilanus (&lt;a href="http://www.helpim.org/"&gt;HelpIM&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Remko Tronçon (&lt;a href="http://psi-im.org/"&gt;Psi Project&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Matthew Wild (&lt;a href="http://prosody.im/"&gt;Prosody.im&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Hellekin O. Wolf &lt;/li&gt;
+&lt;li&gt;Paul Witty (&lt;a href="http://www.codian.com/"&gt;Codian&lt;/a&gt;     / &lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Christopher Zorn (&lt;a href="http://stanziq.com/"&gt;StanzIQ&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Nathan Zorn (&lt;a href="http://stanziq.com/"&gt;StanzIQ&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name="logistics"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Logistics&lt;/h3&gt;
+&lt;p&gt;The Jingle Thingle (Friday) and XMPP Summit (Monday) will take place at the &lt;a href="http://www.hotelbedford.be/"&gt;Hotel Bedford&lt;/a&gt;, 135-137 rue du Midi, 1000 Brussels (tel +32 2 507 00 00, email info@hotelbedford.be) -- the booking.com URL is here: &lt;a href="http://www.booking.com/hotel/be/bedford.html?checkin=2009-02-06;checkout=2009-02-10;show_room=RD2006904_297285_0"&gt;Friday to Tuesday&lt;/a&gt; / &lt;a href="http://www.booking.com/hotel/be/bedford.html?checkin=2009-02-05;checkout=2009-02-10;show_room=RD2006904_297285_0"&gt;Thursday to Tuesday&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The FOSDEM activities (Saturday and Sunday) will take place at ULB Campus Solbosh, 50 Avenue Franklin D. Roosevelt, 1050 Brussels (detals&lt;a href="http://www.fosdem.org/2009/practical/transportation"&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;a name="contact"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Contact&lt;/h3&gt;
+&lt;p&gt;Join the &lt;a href="http://mail.jabber.org/mailman/listinfo/summit"&gt;summit@xmpp.org&lt;/a&gt; list to discuss. If you have any questions, ping &lt;a href="https://stpeter.im/?page_id=1968"&gt;Peter Saint-Andre&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>XMPP Summit 7</title><link href="/posts/blog/2010/Aug/10/xmpp-summit-7" rel="alternate"></link><updated>2010-08-10T04:32:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-08-10:posts/blog/2010/Aug/10/xmpp-summit-7</id><summary type="html">&lt;p&gt;The XMPP Standards Foundation will hold its seventh "XMPP Summit" meeting on July 20 and 21, 2009, in San Jose, California, USA. Thanks to the generosity of &lt;a href="http://oreilly.com/"&gt;O'Reilly&lt;/a&gt;, the Summit will be held on the premises of &lt;a href="http://en.oreilly.com/oscon2009"&gt;OSCON 2009&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#monday"&gt;Monday, July 20: Interop &amp;amp; Hackfest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#dinner"&gt;Monday Evening: Developer Dinner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#tuesday"&gt;Tuesday, July 21: Technology Brainstorming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#participants"&gt;Participants&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#logistics"&gt;Logistics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#cost"&gt;Cost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#contact"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name="monday"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Monday, July 20: Interop &amp;amp; Hackfest&lt;/h3&gt;
+&lt;p&gt;Here we will focus on interoperability testing and software hacking, including work on automated testing tools. Bring your laptop and your code! Some impromptu technology discussions are likely, as well.&lt;/p&gt;
+&lt;p&gt;&lt;a name="dinner"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Monday Evening: Developer Dinner&lt;/h3&gt;
+&lt;p&gt;On the evening of Monday the 20th we will hold our traditional "developer dinner" so that people can get to each other in a more casual atmosphere. Location yet to be determined.&lt;/p&gt;
+&lt;p&gt;As at Summit #6, we are looking for donations to help fund the festivities. Depending on how many people donate, the cost per person might be quite minimal. The following companies and individuals have volunteered to donate to the cause:&lt;/p&gt;
+&lt;h4&gt;Donations&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.collecta.com/"&gt;Collecta&lt;/a&gt; (\$100)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.isode.com/"&gt;Isode Ltd.&lt;/a&gt; (\$500)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.good.com/"&gt;Good Technology&lt;/a&gt; (\$100)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.intridea.com/"&gt;Intridea&lt;/a&gt;/&lt;a href="http://www.presentlyapp.com/"&gt;Present.ly&lt;/a&gt; (\$150)&lt;/li&gt;
+&lt;li&gt;Jonas Lindberg (\$100)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.process-one.net/"&gt;Process-One&lt;/a&gt; (\$200)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stpeter.im/"&gt;Peter Saint-Andre&lt;/a&gt; (\$100)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.vayusphere.com/"&gt;Vayusphere&lt;/a&gt; (\$100)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Unless you tell us otherwise, we will assume that you want to join us for dinner if you are participating in the Summit.&lt;/p&gt;
+&lt;p&gt;&lt;a name="tuesday"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Tuesday, July 21: Technology Brainstorming&lt;/h3&gt;
+&lt;p&gt;We will devote Tuesday to high-bandwidth discussions about gaps in the XMPP protocol stack, operational challenges, and other hot topics. However, software hacking will probably continue in the background.&lt;/p&gt;
+&lt;p&gt;&lt;a name="participants"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Participants&lt;/h3&gt;
+&lt;p&gt;The following people have indicated that they are likely to participate. If you would like to attend, please post a message to the &lt;a href="http://mail.jabber.org/mailman/listinfo/summit"&gt;summit@xmpp.org&lt;/a&gt; discussion list and tell us whether you want to join us for dinner on Monday evening, including your dietary restrictions (if any).&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Diana Cionoiu (&lt;a href="http://yate.null.ro/"&gt;Yate&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dave Cridland (&lt;a href="http://www.isode.com/"&gt;Isode&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Pradeep Elankumaran     (&lt;a href="http://www.intridea.com/"&gt;Intridea&lt;/a&gt;/&lt;a href="http://www.presentlyapp.com/"&gt;Present.ly&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Nathan Fritz (Northscale)&lt;/li&gt;
+&lt;li&gt;Julien Genestoux (&lt;a href="http://superfeedr.com/"&gt;Superfeedr.com&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Joe Hildebrand (&lt;a href="http://www.cisco.com/"&gt;Cisco&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Adam Kalsey (&lt;a href="http://www.voxeo.com/"&gt;Voxeo&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Jonas Lindberg (&lt;a href="http://www.google.com/"&gt;Google&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Justin Karneges (&lt;a href="http://psi-im.org/"&gt;Psi&lt;/a&gt; / &lt;a href="http://www.barracudanetworks.com/"&gt;Barracuda     Networks&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Ralph Meijer (&lt;a href="http://www.mediamatic.nl/"&gt;Mediamatic Lab&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Jack Moffitt (&lt;a href="http://www.collecta.com/"&gt;Collecta&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Pushpendra Mohta (&lt;a href="http://www.vayusphere.com/"&gt;Vayusphere&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Michael Ossareh (&lt;a href="http://www.heysan.com/"&gt;Heysan&lt;/a&gt; / &lt;a href="http://www.good.com/"&gt;Good     Technology&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Mickaël Rémond (&lt;a href="http://www.process-one.net/"&gt;ProcessOne&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Peter Saint-Andre (&lt;a href="http://xmpp.org/"&gt;XSF&lt;/a&gt;     / &lt;a href="http://www.cisco.com/"&gt;Cisco&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Mick Thompson (&lt;a href="http://www.flarify.com/"&gt;Flarify&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Kurt Zeilenga (&lt;a href="http://www.isode.com/"&gt;Isode&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Christopher Zorn (&lt;a href="http://www.collecta.com/"&gt;Collecta&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name="logistics"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Logistics&lt;/h3&gt;
+&lt;p&gt;The XMPP Summit will take place in room B3 at the &lt;a href="http://www.sanjose.org/meetings/facilities/convention.php"&gt;San Jose McEnery Convention Center&lt;/a&gt;, 150 West San Carlos Street, San Jose, California. We typically begin the day at 10:00 and finish around 17:00. Hotel information can be found on the &lt;a href="http://en.oreilly.com/oscon2009/public/content/hotel"&gt;OSCON site&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You &lt;em&gt;do not&lt;/em&gt; need to register for OSCON in order to participate in the XMPP Summit. OSCON is a great conference and we encourage you to attend! However, if you want to participate only in the XMPP Summit, you MUST sign in for a free "floor pass" with O'Reilly when you arrive at the convention center.&lt;/p&gt;
+&lt;p&gt;&lt;a name="cost"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Cost&lt;/h3&gt;
+&lt;p&gt;The XMPP Summit is free. However, we reserve the right to ask for donations to help pay for food. You do want to eat, don't you?&lt;/p&gt;
+&lt;p&gt;&lt;a name="contact"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Contact&lt;/h3&gt;
+&lt;p&gt;Join the &lt;a href="http://mail.jabber.org/mailman/listinfo/summit"&gt;summit@xmpp.org&lt;/a&gt; list to discuss. If you have any questions, ping &lt;a href="https://stpeter.im/index.php/contact/"&gt;Peter Saint-Andre&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>XMPP Summit 8</title><link href="/posts/blog/2010/Aug/10/xmpp-summit-8" rel="alternate"></link><updated>2010-08-10T04:29:00+02:00</updated><author><name>admin</name></author><id>tag:,2010-08-10:posts/blog/2010/Aug/10/xmpp-summit-8</id><summary type="html">&lt;p&gt;The eighth &lt;a href="/participate/the-xmpp-summit/"&gt;XMPP Summit&lt;/a&gt; to be held by the XMPP Standards Foundation occured on February 5-8, 2010, in Brussels, Belgium (the same weekend as &lt;a href="http://www.fosdem.org/"&gt;FOSDEM 2010&lt;/a&gt;).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#friday"&gt;Friday, February 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#saturday"&gt;Saturday, February 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#sunday"&gt;Sunday, February 7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#dinner"&gt;Sunday, February 7 - Official XSF Dinner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#monday"&gt;Monday, February 8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#mobile"&gt;Mobile Dev Challenge and SIMs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#hotel"&gt;Hotel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#logistics"&gt;Logistics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#contact"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name="friday"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Friday, February 5: XMPP Hackfest&lt;/h3&gt;
+&lt;p&gt;The official XMPP Hackfest is there for people to code on XMPP, test interoperability and build or extend applications. The XMPP Hackfest will be happening at the &lt;a href="#hotel"&gt;Hotel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The following people are likely to participate:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Yuriy Blokhin (&lt;a href="http://kik.com/"&gt;Kik&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Dan Brickley &lt;/li&gt;
+&lt;li&gt;Ilya Braude (&lt;a href="http://drakontas.com/"&gt;Drakontas&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Thiago Camargo (&lt;a href="http://nimbuzz.com/"&gt;Nimbuzz&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Cosimoc Cecchi (&lt;a href="http://www.collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Diana Cionoiu (&lt;a href="http://yate.null.ro/"&gt;Yate Project&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Dave Cridland (&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Sebastiaan Deckers (&lt;a href="http://www.pandion.be/"&gt;Pandion&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Florian Detig (&lt;a href="http://www.andlabs.de/"&gt;ANDLabs&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Laurent Eschenauer (&lt;a href="http://rndbackyard.vodafone.com/"&gt;Vodafone Group     R&amp;amp;D&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fabio Forno (&lt;a href="http://ooros.com/"&gt;Ooros&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Artur Hefczyc (&lt;a href="http://tigase.org/"&gt;Tigase&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Joe Hildebrand (&lt;a href="http://cisco.com/"&gt;Cisco&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Makoto Inoue (&lt;a href="http://new-bamboo.co.uk/"&gt;New Bamboo&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Cristina Jianu (&lt;a href="http://yate.null.ro/"&gt;Yate Project&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Tuomas Koski (&lt;a href="http://buddycloud.com/"&gt;Buddycloud&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Petri Liimatta (&lt;a href="http://www.nokia.com/"&gt;Nokia&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Ralph Meijer (&lt;a href="http://www.mediamatic.nl/"&gt;Mediamatic Lab&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Edwin Mons &lt;/li&gt;
+&lt;li&gt;Marian Podgoreanu (&lt;a href="http://yate.null.ro/"&gt;Yate Project&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Johann Prieur (&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Mickaël Rémond (&lt;a href="http://www.process-one.net/"&gt;Process One&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Ali Sabil (&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Ross Savage (&lt;a href="http://buddycloud.com/"&gt;Buddycloud&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Marco Sgrignuoli (&lt;a href="http://ooros.com/"&gt;Ooros&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Sjoerd Simons (&lt;a href="http://www.collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Kevin Smith (&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt;     / &lt;a href="http://swift.im/"&gt;Swift.im&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dries Staelens (&lt;a href="http://www.pandion.be/"&gt;Pandion&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Luca Tagliaferri (&lt;a href="http://www.bluendo.com/"&gt;Bluendo&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Simon Tennant (&lt;a href="http://buddycloud.com/"&gt;Buddycloud&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Florian Thießen (&lt;a href="http://www.thiessen.im/"&gt;Thiessen.IM&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Will Thompson (&lt;a href="http://www.collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Winfried Tilanus (&lt;a href="http://www.helpim.org/"&gt;HelpIM&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Rene Treffer (&lt;a href="http://buddycloud.com/"&gt;Buddycloud&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Nicolas Vérité (&lt;a href="http://www.process-one.net/"&gt;Process One&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Ian Wild (&lt;a href="http://prosody.im/"&gt;Prosody.im&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Matthew Wild (&lt;a href="http://prosody.im/"&gt;Prosody.im&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Paul Witty (&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Kurt Zeilenga (&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Christopher Zorn (&lt;a href="http://collecta.com/"&gt;Collecta&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name="saturday"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Saturday, February 6: Devroom @ FOSDEM&lt;/h3&gt;
+&lt;p&gt;From 13:00 until 19:00 we will have a devroom where we can host tutorials, presentations, demos, and lightning talks at &lt;a href="http://www.fosdem.org/2010/"&gt;FOSDEM 2010&lt;/a&gt;. Location: ULB Solbosh Campus (see &lt;a href="http://xmpp.org/summit/summit8.shtml#logistics"&gt;logistic&lt;/a&gt;), the Building and Room will be announced soon.&lt;/p&gt;
+&lt;p&gt;If you would like to be a speaker, please contact &lt;a href="http://xmpp.org/xsf/people/stpeter.shtml"&gt;Peter Saint-Andre&lt;/a&gt;. We especially want technical talks of interest to open-source geeks. No marketing fluff, please! The typical talk will be 15 minutes with 15 minutes for discussion.&lt;/p&gt;
+&lt;p&gt;The schedule is as follows (slots for lightning talks are still available, post to the &lt;a href="http://mail.jabber.org/mailman/listinfo/summit"&gt;summit@xmpp.org list&lt;/a&gt; if you are interested!).&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="3"&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt; &lt;th&gt; Time&lt;/th&gt;
+             &lt;th&gt; Topic&lt;/th&gt;
+             &lt;th&gt; Speaker(s)&lt;/th&gt;
+         &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; 13:00-13:15
+&lt;/td&gt; &lt;td&gt; Intro / Logistics
+&lt;/td&gt; &lt;td&gt; Peter Saint-Andre
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; 13:15-14:00
+&lt;/td&gt; &lt;td&gt; The Extraordinary, Magical Powers and Possibilities of XMPP
+&lt;/td&gt; &lt;td&gt; Remko Tronçon
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; 14:00-14:30
+&lt;/td&gt; &lt;td&gt; Stump the XMPP Experts! Open Q&amp;A
+&lt;/td&gt; &lt;td&gt; XMPP Council and book authors
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; 14:30-15:00
+&lt;/td&gt; &lt;td&gt; Building Federated Social Networks on XMPP
+&lt;/td&gt; &lt;td&gt; Simon Tennant &amp; Tuomas Koski
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; 15:00-15:30
+&lt;/td&gt; &lt;td&gt; XMPP and the Social Web
+&lt;/td&gt; &lt;td&gt; Laurent Eschenauer &amp; Alard Weisscher
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; 15:30-16:00
+&lt;/td&gt; &lt;td&gt; PubSub Gone Wild: Info Sharing at Mediamatic
+&lt;/td&gt; &lt;td&gt; Ralph Meijer
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; 16:00-16:30
+&lt;/td&gt; &lt;td&gt; Mirabeau: Creating Personal Media Networks and Bridging UPnP Devices over the Internet with XMPP
+&lt;/td&gt; &lt;td&gt; Frank Scholz &amp; Philippe Normand
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; 16:30-17:00
+&lt;/td&gt; &lt;td&gt; You Got Your XMPP in My Website: Using Strophe.js for Fun and Profit
+&lt;/td&gt; &lt;td&gt; Jack Moffitt
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; 17:00-17:30
+&lt;/td&gt; &lt;td&gt; Lightning Talks
+&lt;/td&gt; &lt;td&gt; various speakers
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; 17:30-17:50
+&lt;/td&gt; &lt;td&gt; Jingle Nodes: An Open Alternative to Skype
+&lt;/td&gt; &lt;td&gt; Thiago Camargo
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; 17:50-18:10
+&lt;/td&gt; &lt;td&gt; Jingle in the Enterprise
+&lt;/td&gt; &lt;td&gt; Diana Cionoiu
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; 18:10-18:30
+&lt;/td&gt; &lt;td&gt; Multi-User Jingle: Voice and Video Conferencing with XMPP
+&lt;/td&gt; &lt;td&gt; Sjoerd Simons &amp; Robert McQueen
+&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt; 18:30-19:00
+&lt;/td&gt; &lt;td&gt; More Lightning Talks
+&lt;/td&gt; &lt;td&gt; various speakers
+&lt;/td&gt; &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;We will also have a XMPP Stand (10am-6pm) where you'll be able to talk to great people of the XMPP community. It'll be the place to start off all your interesting "hallway" discussions.&lt;/p&gt;
+&lt;p&gt;&lt;a name="sunday"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Sunday, February 7: FOSDEM&lt;/h3&gt;
+&lt;p&gt;Developers are free to attend the second day of the FOSDEM conference. We'll need help manning the booth (10am-5pm) and attending talks to spread the word about XMPP. Also expect many interesting "hallway" discussions and continued hacking in the background.&lt;/p&gt;
+&lt;p&gt;&lt;a name="dinner"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Sunday, February 7: Official XSF Dinner&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Note: We have reached our dinner limit of 48 people!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Depending on the amount of sponsorships / donations we receive, the price of the dinner will vary. Please be at the Hotel reception at &lt;strong&gt;18:15&lt;/strong&gt; so that you don't miss the coach to the Restaurant. Contact &lt;a href="http://xmpp.org/summit/summit8.shtml#contact"&gt;Florian&lt;/a&gt; if you would like to donate!&lt;/p&gt;
+&lt;p&gt;Sponsors / Donations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.nokia.com/"&gt;Nokia&lt;/a&gt; (1000€)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.betavine.net/?utm_source=banner&amp;amp;utm_medium=web&amp;amp;utm_campaign=fosdem"&gt;Vodafone&lt;/a&gt; (1000€)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.collabora.co.uk/"&gt;Collabora&lt;/a&gt; (500€)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt; (500€)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt; (500€)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://buddycloud.com/"&gt;Buddycloud&lt;/a&gt; (100€)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.collecta.com/"&gt;Collecta&lt;/a&gt; (100€)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ooros.com/"&gt;Ooros&lt;/a&gt; (100€)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Participants:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Yuriy Blokhin (&lt;a href="http://kik.com/"&gt;Kik&lt;/a&gt;)(M) &lt;/li&gt;
+&lt;li&gt;Alex Borisov (M) &lt;/li&gt;
+&lt;li&gt;Ilya Braude (&lt;a href="http://drakontas.com/"&gt;Drakontas&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Thiago Camargo (&lt;a href="http://nimbuzz.com/"&gt;Nimbuzz&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Cosimoc Cecchi (&lt;a href="http://www.collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Diana Cionoiu (&lt;a href="http://yate.null.ro/"&gt;Yate Project&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Dave Cridland (&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Sebastiaan Deckers (&lt;a href="http://www.pandion.be/"&gt;Pandion&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Florian Detig (&lt;a href="http://www.andlabs.de/"&gt;ANDLabs&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Laurent Eschenauer (&lt;a href="http://rndbackyard.vodafone.com/"&gt;Vodafone Group     R&amp;amp;D&lt;/a&gt;) (M)&lt;/li&gt;
+&lt;li&gt;Fabio Forno (&lt;a href="http://ooros.com/"&gt;Ooros&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Artur Hefczyc (&lt;a href="http://tigase.org/"&gt;Tigase&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Joe Hildebrand (&lt;a href="http://cisco.com/"&gt;Cisco&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Lee Hughes (M) &lt;/li&gt;
+&lt;li&gt;Makoto Inoue (&lt;a href="http://new-bamboo.co.uk/"&gt;New Bamboo&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Florian Jensen (&lt;a href="http://flosoft.biz/"&gt;Flosoft.biz&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Cristina Jianu (&lt;a href="http://yate.null.ro/"&gt;Yate Project&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Steve Kille (&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Tuomas Koski (&lt;a href="http://buddycloud.com/"&gt;Buddycloud&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Petri Liimatta (&lt;a href="http://www.nokia.com/"&gt;Nokia&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Kristian Luoma (&lt;a href="http://www.nokia.com/"&gt;Nokia&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Tobias Markmann (M) &lt;/li&gt;
+&lt;li&gt;Robert McQueen (&lt;a href="http://www.collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Ralph Meijer (&lt;a href="http://www.mediamatic.nl/"&gt;Mediamatic Lab&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Alexey Melnikov (&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Mafalda Mendes &lt;/li&gt;
+&lt;li&gt;Jack Moffitt (&lt;a href="http://collecta.com/"&gt;Collecta&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Edwin Mons (M) &lt;/li&gt;
+&lt;li&gt;Christopher Orr (M) &lt;/li&gt;
+&lt;li&gt;Marian Podgoreanu (&lt;a href="http://yate.null.ro/"&gt;Yate Project&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Johann Prieur (&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Mickaël Rémond (&lt;a href="http://www.process-one.net/"&gt;Process One&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Ali Sabil (&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Peter Saint-Andre (&lt;a href="http://cisco.com/"&gt;Cisco&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Marco Sgrignuoli (&lt;a href="http://ooros.com/"&gt;Ooros&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Ross Savage (&lt;a href="http://buddycloud.com/"&gt;Buddycloud&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Sjoerd Simons (&lt;a href="http://www.collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Kevin Smith (&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt;     / &lt;a href="http://swift.im/"&gt;Swift.im&lt;/a&gt;) (M)&lt;/li&gt;
+&lt;li&gt;Dries Staelens (&lt;a href="http://www.pandion.be/"&gt;Pandion&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Luca Tagliaferri (&lt;a href="http://www.bluendo.com/"&gt;Bluendo&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Simon Tennant (&lt;a href="http://buddycloud.com/"&gt;Buddycloud&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Florian Thießen (&lt;a href="http://www.thiessen.im/"&gt;Thiessen.IM&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Will Thompson (&lt;a href="http://www.collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Winfried Tilanus (&lt;a href="http://www.helpim.org/"&gt;HelpIM&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Rene Treffer (&lt;a href="http://buddycloud.com/"&gt;Buddycloud&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Remko Tronçon (&lt;a href="http://swift.im/"&gt;Swift.im&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Nicolas Vérité (&lt;a href="http://www.process-one.net/"&gt;Process One&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Alard Weisscher (&lt;a href="http://rndbackyard.vodafone.com/"&gt;Vodafone Group     R&amp;amp;D&lt;/a&gt;) (M)&lt;/li&gt;
+&lt;li&gt;Lukasz Wiechec (&lt;a href="http://www.nc3a.nato.int/"&gt;NC3A&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Ian Wild (&lt;a href="http://prosody.im/"&gt;Prosody.im&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Matthew Wild (&lt;a href="http://prosody.im/"&gt;Prosody.im&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Paul Witty (&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Kurt Zeilenga (&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt;) (M) &lt;/li&gt;
+&lt;li&gt;Christopher Zorn (&lt;a href="http://collecta.com/"&gt;Collecta&lt;/a&gt;) (M)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name="monday"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Monday, February 8: XMPP Summit&lt;/h3&gt;
+&lt;p&gt;The official "XMPP Summit" itself: Intensive discussions among core XMPP developers to solve pressing problems in the XMPP protocol stack.&lt;/p&gt;
+&lt;p&gt;The Summit is not intended for people who are just interested in learning about XMPP (see the Saturday schedule), but instead for active technical contributors in the XMPP community. If you would like to participate, please say so on the &lt;a href="http://mail.jabber.org/mailman/listinfo/summit"&gt;summit@xmpp.org&lt;/a&gt; mailing list. The tentative schedule is 9:30 to 4:30. &lt;/p&gt;
+&lt;p&gt;Location: Conference Room at the &lt;a href="http://xmpp.org/summit/summit8.shtml#hotel"&gt;Hotel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The following people will participate:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Thomas Baquet &lt;/li&gt;
+&lt;li&gt;Yuriy Blokhin (&lt;a href="http://kik.com/"&gt;Kik&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Alex Borisov &lt;/li&gt;
+&lt;li&gt;Ilya Braude (&lt;a href="http://drakontas.com/"&gt;Drakontas&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Thiago Camargo (&lt;a href="http://nimbuzz.com/"&gt;Nimbuzz&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Cosimoc Cecchi (&lt;a href="http://www.collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Diana Cionoiu (&lt;a href="http://yate.null.ro/"&gt;Yate Project&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Dave Cridland (&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Sebastiaan Deckers (&lt;a href="http://www.pandion.be/"&gt;Pandion&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Florian Detig (&lt;a href="http://www.andlabs.de/"&gt;ANDLabs&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Laurent Eschenauer (&lt;a href="http://rndbackyard.vodafone.com/"&gt;Vodafone Group     R&amp;amp;D&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fabio Forno (&lt;a href="http://ooros.com/"&gt;Ooros&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Artur Hefczyc (&lt;a href="http://tigase.org/"&gt;Tigase&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Joe Hildebrand (&lt;a href="http://cisco.com/"&gt;Cisco&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Lee Hughes &lt;/li&gt;
+&lt;li&gt;Florian Jensen (&lt;a href="http://flosoft.biz/"&gt;Flosoft.biz&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Cristina Jianu (&lt;a href="http://yate.null.ro/"&gt;Yate Project&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Steve Kille (&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Tuomas Koski (&lt;a href="http://buddycloud.com/"&gt;Buddycloud&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Petri Liimatta (&lt;a href="http://www.nokia.com/"&gt;Nokia&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Kristian Luoma (&lt;a href="http://www.nokia.com/"&gt;Nokia&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Tobias Markmann &lt;/li&gt;
+&lt;li&gt;Ralph Meijer (&lt;a href="http://www.mediamatic.nl/"&gt;Mediamatic Lab&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Alexey Melnikov (&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Jack Moffitt (&lt;a href="http://collecta.com/"&gt;Collecta&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Edwin Mons &lt;/li&gt;
+&lt;li&gt;Maciek Niedzielski (&lt;a href="http://psi-im.org/"&gt;Psi&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Sonny Piers &lt;/li&gt;
+&lt;li&gt;Marian Podgoreanu (&lt;a href="http://yate.null.ro/"&gt;Yate Project&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Johann Prieur (&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Mickaël Rémond (&lt;a href="http://www.process-one.net/"&gt;Process One&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Alex Rogers (&lt;a href="http://www.mondago.com/"&gt;Mondago&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Ali Sabil (&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Ross Savage (&lt;a href="http://buddycloud.com/"&gt;Buddycloud&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Peter Saint-Andre (&lt;a href="http://cisco.com/"&gt;Cisco&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Marco Sgrignuoli (&lt;a href="http://ooros.com/"&gt;Ooros&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Sjoerd Simons (&lt;a href="http://www.collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Kevin Smith (&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt;     / &lt;a href="http://swift.im/"&gt;Swift.im&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dries Staelens (&lt;a href="http://www.pandion.be/"&gt;Pandion&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Neil Stratford (&lt;a href="http://www.voxeo.com/"&gt;Voxeo&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Luca Tagliaferri (&lt;a href="http://www.bluendo.com/"&gt;Bluendo&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Simon Tennant (&lt;a href="http://buddycloud.com/"&gt;Buddycloud&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Florian Thießen (&lt;a href="http://www.thiessen.im/"&gt;Thiessen.IM&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Will Thompson (&lt;a href="http://www.collabora.co.uk/"&gt;Collabora&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Winfried Tilanus (&lt;a href="http://www.helpim.org/"&gt;HelpIM&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Rene Treffer (&lt;a href="http://buddycloud.com/"&gt;Buddycloud&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Remko Tronçon (&lt;a href="http://swift.im/"&gt;Swift.im&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Nicolas Vérité (&lt;a href="http://www.process-one.net/"&gt;Process One&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Alard Weisscher (&lt;a href="http://rndbackyard.vodafone.com/"&gt;Vodafone Group     R&amp;amp;D&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Lukasz Wiechec (&lt;a href="http://www.nc3a.nato.int/"&gt;NC3A&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Ian Wild (&lt;a href="http://prosody.im/"&gt;Prosody.im&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Matthew Wild (&lt;a href="http://prosody.im/"&gt;Prosody.im&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Paul Witty (&lt;a href="http://www.tandberg.com/"&gt;TANDBERG&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Kurt Zeilenga (&lt;a href="http://isode.com/products/m-link.html"&gt;Isode&lt;/a&gt;) &lt;/li&gt;
+&lt;li&gt;Christopher Zorn (&lt;a href="http://collecta.com/"&gt;Collecta&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name="mobile"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Mobile Dev Challenge and SIM Cards&lt;/h3&gt;
+&lt;p&gt;All information about the XMPP Developer Challenge can be found &lt;a href="http://bit.ly/7135Iu"&gt;here&lt;/a&gt;.
+&lt;a href="http://mobilevikings.com/"&gt;MobileVikings&lt;/a&gt; has generously given us 20 SIM cards with mobile internet access for demonstration purposes for the XMPP Stand, Devroom and Summit.&lt;/p&gt;
+&lt;p&gt;If you are interested in getting a SIM card for the 4 days, please contact &lt;a href="http://xmpp.org/summit/summit8.shtml#contact"&gt;Florian&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a name="hotel"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Hotel&lt;/h3&gt;
+&lt;p&gt;The XMPP Summit will be held at the &lt;a href="http://carrefourhotel.be/"&gt;Best Western Premier - Carrefour de L'Europe&lt;/a&gt; Hotel in the heart of Brussels. It's conveniently located next to the Brussels Central station and the Grand Place.&lt;/p&gt;
+&lt;p&gt;The XSF has a deal for a Business Room for 109€ per night for a single or a double / twin room. The rooms are on lock until the 15th of January. For the booking and information, please contact &lt;a href="http://xmpp.org/summit/summit8.shtml#contact"&gt;Florian Jensen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a name="logistics"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Logistics&lt;/h3&gt;
+&lt;p&gt;The FOSDEM activities (Saturday and Sunday) will take place at ULB Campus Solbosh, 50 Avenue Franklin D. Roosevelt, 1050 Brussels (detals&lt;a href="http://fosdem.org/2010/transportation"&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;a name="contact"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Contact&lt;/h3&gt;
+&lt;p&gt;Join the &lt;a href="http://mail.jabber.org/mailman/listinfo/summit"&gt;summit@xmpp.org&lt;/a&gt; list to discuss. If you have any questions, ping &lt;a href="https://stpeter.im/?page_id=1968"&gt;Peter Saint-Andre&lt;/a&gt;.   For queries about the Hotel or Dinner, please contact Florian Jensen (&lt;a href="xmpp:admin@im.flosoft.biz"&gt;XMPP&lt;/a&gt; / &lt;a href="mailto:florian@florianjensen.com"&gt;E-mail&lt;/a&gt;).&lt;/p&gt;</summary></entry><entry><title>Developers Challenge (with prizes!!)</title><link href="/posts/blog/2010/Jan/21/developers-challenge-with-prizes" rel="alternate"></link><updated>2010-01-21T04:37:00+01:00</updated><author><name>admin</name></author><id>tag:,2010-01-21:posts/blog/2010/Jan/21/developers-challenge-with-prizes</id><summary type="html">&lt;p&gt;Hey everyone!&lt;/p&gt;
+&lt;p&gt;Less than 3 weeks left until the XMPP Summit #8 comes to Brussels.
+&lt;a href="http://stage.xmpp.org/wp-content/uploads/2010/01/devchallenge.jpg"&gt;&lt;img alt="" src="http://stage.xmpp.org/wp-content/uploads/2010/01/devchallenge.jpg" title="XMPP Dev Challenge" /&gt;&lt;/a&gt;This year, we've got something new! Nokia has generously offered to sponsor a mobile XMPP developer challenge.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What does that mean?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Starting from NOW, you can start writing a mobile application for ANY Nokia platform (Maemo / S60v3 / S60v5 ...).&lt;/p&gt;
+&lt;p&gt;The requirements are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The program must be FREELY available; OpenSource is preferred.&lt;/li&gt;
+&lt;li&gt;The application needs to be demoed on a Nokia Phone (we have demo devices on location) on the XMPP Summit (Monday). If you are not attending the Summit, find someone who is, and can demo / explain the app, and collect the prize.&lt;/li&gt;
+&lt;li&gt;Limit of 1 application per attendee.&lt;/li&gt;
+&lt;li&gt;Substantially new code, as decreed on the day by the judges. (If you have questions, the judges will give guidance, but the final decision will be made on the day)&lt;/li&gt;
+&lt;li&gt;Judges aren't eligible.&lt;/li&gt;
+&lt;li&gt;And of course: The application needs to use XMPP in some way.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The judges are: Jack Moffitt (XSF Board Chairman); Kevin Smith (XSF Council Chairman); Kristian Luoma (Nokia)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;So what can I win?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We have one Nokia N900 generously sponsored by Nokia which the judges will hand over to the best application.&lt;/p&gt;
+&lt;p&gt;We will also have a second prize, whose winner is chosen by all the attendees (participants excluded). This prize consists of 2 XMPP books (XMPP: The Definitive Guide; Professional XMPP Programming with Javascript and Jquery) and an official XMPP T-Shirt.&lt;/p&gt;
+&lt;p&gt;So, open up those text editors and start coding, and good luck!&lt;/p&gt;</summary></entry><entry><title>Australian XMPP Meetups</title><link href="/posts/blog/2009/May/03/australian-xmpp-meetups" rel="alternate"></link><updated>2009-05-03T19:19:00+02:00</updated><author><name>admin</name></author><id>tag:,2009-05-03:posts/blog/2009/May/03/australian-xmpp-meetups</id><summary type="html">&lt;p&gt;&lt;a href="http://www.linkedin.com/in/dbanes" title="David Banes - Chairman XMPP Standards Foundation"&gt;David Banes&lt;/a&gt; is hoping to get some &lt;a href="http://www.meetup.com/Sydney-XMPP-Meetup/" title="XMPP Meetup"&gt;XMPP Meetups&lt;/a&gt; going in Australia. Looking at Sydney to start with and Melbourne next.&lt;/p&gt;
+&lt;p&gt;Register at &lt;a href="http://www.meetup.com/Sydney-XMPP-Meetup/" title="XMPP Meetup"&gt;Meetup.com&lt;/a&gt; if you're interested.
+&lt;a href="http://www.meetup.com/Sydney-XMPP-Meetup/" title="Sydney XMPP Meetup"&gt;http://www.meetup.com/Sydney-XMPP-Meetup/&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>XMPP Roundup #1</title><link href="/posts/blog/2008/Sep/16/xmpp-roundup-1" rel="alternate"></link><updated>2008-09-16T08:37:00+02:00</updated><author><name>admin</name></author><id>tag:,2008-09-16:posts/blog/2008/Sep/16/xmpp-roundup-1</id><summary type="html">&lt;p&gt;Welcome to the first installment of what we hope will be a continuing series of reports on XMPP technologies and the XMPP community (you can think of this series is a replacement for the old &lt;a href="http://www.saint-andre.com/jabber/journal/"&gt;Jabber Journal&lt;/a&gt;). This report is authored by &lt;a href="http://stpeter.im/"&gt;Peter Saint-Andre&lt;/a&gt;, &lt;a href="http://florianjensen.com/"&gt;Florian Jensen&lt;/a&gt;, and &lt;a href="http://metajack.im/"&gt;Jack Moffitt&lt;/a&gt;. Future reports might involve different authors just to keep things interesting; let us know if you'd like to help.&lt;/p&gt;
+&lt;h3&gt;Secure Communications Week&lt;/h3&gt;
+&lt;p&gt;The first &lt;a href="http://www.jabber.org/web/Secure_Communications_Week"&gt;Secure Communications Week&lt;/a&gt; is coming soon: October 4-11, 2008. For an entire week all participating XMPP-based IM services, led by the jabber.org IM team, will require channel encryption (SSL / TLS) for stronger security. During the first week, we will focus on client-to-server encryption, but in future weeks, participating servers may also test encryption of server-to-server connections.&lt;/p&gt;
+&lt;p&gt;Why are we doing this? Isn't this just annoying for people whose IM clients don't support SSL/TLS? There are two reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Privacy matters. The Internet isn't a secure place, and we think it's in your interest to keep IM conversations private. By using SSL or TLS encryption, you ensure that everything sent through Jabber is encrypted and unreadable by a "man in the middle". As a result, only your server and the person you chat with can read your messages.&lt;/li&gt;
+&lt;li&gt;Many of the volunteers and organizations who run IM services on the federated XMPP network are aiming to require encryption of all traffic on the network. Therefore, we plan to hold real-life security tests on the network over the next few months, with the goal of requiring encryption among some of the existing IM services in time for the 10th anniversary of Jabber on January 4, 2009.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;IM users can prepare for Secure Communications Week by making sure that they have an &lt;a href="http://www.jabber.org/web/Secure_Communications_Week#How_Can_End_Users_Prepare.3F"&gt;up-to-date IM client&lt;/a&gt;. If you notice that you can't log on to your server, you can find help on the &lt;a href="http://www.jabber.org/web/JabberWiki:Community_Portal" title="Jabber Community"&gt;Jabber Community Forums&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Have a secure week! :)&lt;/p&gt;
+&lt;h3&gt;Jabber.org Gets Peppy&lt;/h3&gt;
+&lt;p&gt;The &lt;a href="http://www.xmpp.org/extensions/xep-0163.html"&gt;Personal Eventing Protocol&lt;/a&gt;, also known as PEP, is the next-generation transport for advertising &lt;a href="http://www.xmpp.org/extensions/xep-0107.html"&gt;moods&lt;/a&gt;, &lt;a href="http://www.xmpp.org/extensions/xep-0108.html"&gt;activities&lt;/a&gt;, &lt;a href="http://www.xmpp.org/extensions/xep-0080.html"&gt;geolocation&lt;/a&gt;, &lt;a href="http://www.xmpp.org/extensions/xep-0118.html"&gt;music tunes&lt;/a&gt;, &lt;a href="http://www.xmpp.org/extensions/inbox/microblogging.html"&gt;microblogging&lt;/a&gt;, and more. It turns each user's IM account into a flexible publish-subscribe service. The XMPP community has been working on these technologies for several years, and now they are mature enough for deployment by large IM service providers like jabber.org.&lt;/p&gt;
+&lt;p&gt;How do you get it?&lt;/p&gt;
+&lt;p&gt;The good thing is, you probably don't need to do anything! Recent releases of popular Jabber clients like &lt;a href="http://psi-im.org"&gt;Psi&lt;/a&gt;, &lt;a href="http://www.gajim.org/"&gt;Gajim&lt;/a&gt;, and &lt;a href="http://coccinella.im"&gt;Coccinella&lt;/a&gt; support PEP, so you don't need to download anything new to use this feature. You will automatically see new options like "Publish Tune" appear in your client interface.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Publishing a Tune in Psi" src="http://stage.xmpp.org/wp-content/uploads/2008/09/publish-tune.png" title="publish-tune" /&gt;&lt;/p&gt;
+&lt;h3&gt;Community Discussions&lt;/h3&gt;
+&lt;p&gt;The Jabber/XMPP community has a large number of communication venues -- multiple email lists, chat rooms, web forums, blogs, microblogs, wikis, and project websites. It is difficult for any one person to keep track of all these conversations, and it gets harder all the time. In the XMPP Report we'll try to summarize those discussion threads so you don't have to read them all.&lt;/p&gt;
+&lt;p&gt;One of the hot topics right now is the integration of XMPP into microblogging services like &lt;a href="http://twitter.com/"&gt;Twitter&lt;/a&gt;, &lt;a href="http://jaiku.com/"&gt;Jaiku&lt;/a&gt;, &lt;a href="http://identi.ca/"&gt;identi.ca&lt;/a&gt;, and &lt;a href="http://yammer.com/"&gt;Yammer&lt;/a&gt;. Many of these services are turning to XMPP for two reasons.  First, it's natural to offer an XMPP interface into microblogging streams because the conversation between participants happens in real time, and also because XMPP's push mechanisms like the core message stanza and advanced &lt;a href="http://www.xmpp.org/tech/pubsub.shtml"&gt;publish-subscribe extension&lt;/a&gt; can save such services from the heavy load of HTTP polling.&lt;/p&gt;
+&lt;p&gt;Last week, several members of the XMPP community participated in &lt;a href="http://microblog.org/wiki/BearHugCamp"&gt;BearHugCamp&lt;/a&gt; in San Francisco along with others from the microblogging community.  Jack Moffitt provides some background &lt;a href="http://metajack.im/2008/09/10/xmpp-microblogging-thoughts/"&gt;here&lt;/a&gt; and a report on the conference &lt;a href="http://metajack.im/2008/09/13/bearhugcamp-for-those-who-missed-it/"&gt;here&lt;/a&gt;. Expect more discussion about this in the coming weeks and months, especially on the &lt;a href="http://mail.jabber.org/mailman/listinfo/social"&gt;social@xmpp.org&lt;/a&gt; email list.&lt;/p&gt;
+&lt;p&gt;Well, that's it for this report. We'll try to write another one soon!&lt;/p&gt;</summary></entry></feed>
